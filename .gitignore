@@ -1,0 +1,43 @@
+# Debug and temp files
+debug_output.txt
+start_coverage_report.txt
+existing_hydro.txt
+global_dam_data.json
+temp_obslist.json
+
+# Test/inspection files
+ehime_obslist.json
+ehime_obslist_ua.json
+hokkaido_*.json
+jozankei_test.json
+kochi_obslist.json
+over_obs*.json
+sameura.html
+hoheikyo.html
+
+# Old/legacy data
+data/kawabou_master.json
+data/obslist_toyama.json
+
+# Old/legacy scripts
+scripts/add_hydro_dams.py
+scripts/analyze_coverage.py
+scripts/debug_fetch.py
+scripts/fetch_global_dam.py
+scripts/fetch_historical.py
+scripts/fetch_kawabou_master.py
+scripts/fetch_realtime_v2.py
+scripts/find_fuzzy_matches.py
+scripts/fix_hokkaido_ids.py
+scripts/generate_expanded_data.py
+scripts/list_hokkaido_river_dams.py
+scripts/merge_kawabou_dams.py
+scripts/parse_dam_master.py
+scripts/scan_all_obslist.py
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

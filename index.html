@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="light">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>日本ダム貯水量マップ | Japan Dam Reservoir Map</title>
+  <meta name="description" content="日本全国のダム貯水量をリアルタイムで可視化。地図・リスト表示に対応。" />
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+
+  <!-- App CSS -->
+  <link rel="stylesheet" href="src/style.css" />
+</head>
+
+<body>
+  <!-- Auth Overlay -->
+  <div id="auth-overlay" class="auth-overlay">
+    <div class="auth-modal">
+      <div class="auth-icon">🔒</div>
+      <h2 data-i18n="auth_title">パスワードを入力してください</h2>
+      <p class="auth-en-sub" style="font-size:0.85rem;color:#8899aa;margin-top:-8px;">Please enter your password</p>
+      <p data-i18n="auth_desc">このアプリケーションは社内利用限定です。</p>
+      <p class="auth-en-sub" style="font-size:0.8rem;color:#8899aa;margin-top:-10px;">This application is for internal
+        use only.</p>
+      <div class="auth-input-group">
+        <input type="password" id="auth-password" placeholder="パスワード / Password"
+          data-i18n-placeholder="auth_placeholder" autocomplete="off" />
+        <button id="auth-submit" data-i18n="auth_submit">ログイン / Login</button>
+      </div>
+      <p id="auth-error" class="auth-error" data-i18n="auth_error">パスワードが正しくありません<br><span
+          style="font-size:0.85em;color:#ff6b6b;">Incorrect password</span></p>
+    </div>
+  </div>
+
+  <!-- Main App -->
+  <div id="app" class="app hidden">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-left">
+        <div class="logo">
+          <span class="logo-icon">💧</span>
+          <h1 data-i18n="app_title">日本ダム貯水量マップ</h1>
+        </div>
+        <span class="data-timestamp" id="data-timestamp"></span>
+      </div>
+      <div class="header-right">
+        <a href="hydro.html" class="btn-icon" title="水力発電ダム統計" aria-label="Hydroelectric Stats">
+          ⚡ <span data-i18n="nav_hydro">水力発電</span>
+        </a>
+        <button id="btn-export-csv" class="btn-icon" title="CSV Download" aria-label="CSV Download">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" />
+            <polyline points="7 10 12 15 17 10" />
+            <line x1="12" y1="15" x2="12" y2="3" />
+          </svg>
+          <span data-i18n="csv_download">CSV</span>
+        </button>
+        <div class="view-toggle">
+          <button id="btn-map-view" class="btn-toggle active" data-i18n="view_map" aria-label="Map View">🗺 マップ</button>
+          <button id="btn-list-view" class="btn-toggle" data-i18n="view_list" aria-label="List View">📋 リスト</button>
+        </div>
+        <button id="btn-theme" class="btn-icon" title="Toggle Theme" aria-label="Toggle Theme">
+          <span id="theme-icon">🌙</span>
+        </button>
+        <button id="btn-lang" class="btn-icon" title="Language" aria-label="Toggle Language">
+          <span id="lang-label">EN</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+      <!-- Filter Panel -->
+      <aside class="filter-panel" id="filter-panel">
+        <div class="filter-header">
+          <h3 data-i18n="filter_title">フィルター</h3>
+          <button id="btn-reset-filter" class="btn-link" data-i18n="filter_reset">リセット</button>
+        </div>
+
+        <!-- Search -->
+        <div class="filter-group">
+          <label data-i18n="filter_search">ダム名検索</label>
+          <input type="text" id="filter-search" placeholder="ダム名を入力..."
+            data-i18n-placeholder="filter_search_placeholder" />
+        </div>
+
+        <!-- Region -->
+        <div class="filter-group">
+          <label data-i18n="filter_region">地方</label>
+          <select id="filter-region">
+            <option value="" data-i18n="filter_all">すべて</option>
+          </select>
+        </div>
+
+        <!-- Prefecture -->
+        <div class="filter-group">
+          <label data-i18n="filter_prefecture">都道府県</label>
+          <select id="filter-prefecture">
+            <option value="" data-i18n="filter_all">すべて</option>
+          </select>
+        </div>
+
+        <!-- Dam Type -->
+        <div class="filter-group">
+          <label data-i18n="filter_dam_type">ダム形式</label>
+          <div id="filter-dam-type" class="checkbox-group"></div>
+        </div>
+
+        <!-- Reservoir Rate -->
+        <div class="filter-group">
+          <label data-i18n="filter_reservoir_rate">貯水率</label>
+          <div class="range-slider">
+            <input type="range" id="filter-rate-min" min="0" max="100" value="0" />
+            <input type="range" id="filter-rate-max" min="0" max="100" value="100" />
+            <div class="range-labels">
+              <span id="rate-min-label">0%</span>
+              <span id="rate-max-label">100%</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stats -->
+        <div class="filter-stats">
+          <div class="stat-item">
+            <span data-i18n="stats_showing">表示中</span>
+            <strong id="stats-count">0</strong>
+            <span data-i18n="stats_dams">ダム</span>
+          </div>
+          <div class="stat-item">
+            <span data-i18n="stats_avg_rate">平均貯水率</span>
+            <strong id="stats-avg-rate">--%</strong>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Map View -->
+      <div id="map-container" class="map-container">
+        <div id="map" class="map"></div>
+        <!-- Legend -->
+        <div class="map-legend" id="map-legend">
+          <h4 data-i18n="legend_title">貯水率</h4>
+          <div class="legend-items">
+            <div class="legend-item"><span class="legend-color" style="background:#2563eb"></span><span>90%+</span>
+            </div>
+            <div class="legend-item"><span class="legend-color" style="background:#16a34a"></span><span>70-90%</span>
+            </div>
+            <div class="legend-item"><span class="legend-color" style="background:#eab308"></span><span>50-70%</span>
+            </div>
+            <div class="legend-item"><span class="legend-color" style="background:#ea580c"></span><span>30-50%</span>
+            </div>
+            <div class="legend-item"><span class="legend-color" style="background:#dc2626"></span><span>&lt;30%</span>
+            </div>
+            <div class="legend-item"><span class="legend-color" style="background:#94a3b8"></span><span
+                data-i18n="legend_nodata">データなし</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- List View -->
+      <div id="list-container" class="list-container hidden">
+        <div class="list-toolbar">
+          <span id="list-count" class="list-count"></span>
+          <div class="sort-controls">
+            <label data-i18n="sort_by">並び替え:</label>
+            <select id="sort-select">
+              <option value="name" data-i18n="sort_name">ダム名</option>
+              <option value="rate-desc" data-i18n="sort_rate_desc">貯水率 (高→低)</option>
+              <option value="rate-asc" data-i18n="sort_rate_asc">貯水率 (低→高)</option>
+              <option value="capacity-desc" data-i18n="sort_capacity_desc">総貯水量 (大→小)</option>
+              <option value="prefecture" data-i18n="sort_prefecture">都道府県</option>
+            </select>
+          </div>
+        </div>
+        <div class="list-table-wrapper">
+          <table class="list-table" id="list-table">
+            <thead>
+              <tr>
+                <th data-sort="name" data-i18n="col_name">ダム名</th>
+                <th data-sort="prefecture" data-i18n="col_prefecture">都道府県</th>
+                <th data-sort="type" data-i18n="col_type">形式</th>
+                <th data-sort="capacity" data-i18n="col_capacity">総貯水量 (万m³)</th>
+                <th data-sort="effective" data-i18n="col_effective">有効貯水量 (万m³)</th>
+                <th data-sort="rate" data-i18n="col_rate">貯水率 (%)</th>
+                <th data-sort="level" data-i18n="col_level">水位 (m)</th>
+              </tr>
+            </thead>
+            <tbody id="list-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Detail Panel -->
+      <div class="detail-panel hidden" id="detail-panel">
+        <div class="detail-header">
+          <h2 id="detail-name"></h2>
+          <button id="detail-close" class="btn-close" aria-label="Close">✕</button>
+        </div>
+        <div class="detail-body">
+          <div class="detail-section">
+            <h4 data-i18n="detail_basic">基本情報</h4>
+            <dl class="detail-grid">
+              <dt data-i18n="detail_location">所在地</dt>
+              <dd id="detail-location"></dd>
+              <dt data-i18n="detail_type">形式</dt>
+              <dd id="detail-type"></dd>
+              <dt data-i18n="detail_purpose">目的</dt>
+              <dd id="detail-purpose"></dd>
+              <dt data-i18n="detail_operator">事業者</dt>
+              <dd id="detail-operator"></dd>
+              <dt data-i18n="detail_total_cap">総貯水容量</dt>
+              <dd id="detail-total-cap"></dd>
+              <dt data-i18n="detail_effective_cap">有効貯水容量</dt>
+              <dd id="detail-effective-cap"></dd>
+            </dl>
+          </div>
+          <div class="detail-section">
+            <h4 data-i18n="detail_realtime">リアルタイム情報</h4>
+            <div class="realtime-gauge">
+              <div class="gauge-bar">
+                <div class="gauge-fill" id="detail-gauge-fill"></div>
+              </div>
+              <span class="gauge-label" id="detail-gauge-label">--%</span>
+            </div>
+            <dl class="detail-grid">
+              <dt data-i18n="detail_rate">貯水率</dt>
+              <dd id="detail-rate"></dd>
+              <dt data-i18n="detail_level">水位</dt>
+              <dd id="detail-level"></dd>
+              <dt data-i18n="detail_inflow">流入量</dt>
+              <dd id="detail-inflow"></dd>
+              <dt data-i18n="detail_outflow">放流量</dt>
+              <dd id="detail-outflow"></dd>
+            </dl>
+          </div>
+
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p data-i18n="footer_source">データ出典: 国土交通省 国土数値情報 / 川の防災情報 / 水文水質データベース</p>
+      <p data-i18n="footer_license">CC BY 4.0 ライセンスに基づき利用</p>
+    </footer>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="src/i18n.js"></script>
+  <script src="src/theme.js"></script>
+  <script src="src/auth.js"></script>
+  <script src="src/data.js"></script>
+  <script src="src/map.js"></script>
+  <script src="src/list.js"></script>
+  <script src="src/detail.js"></script>
+  <script src="src/filter.js"></script>
+  <script src="src/export.js"></script>
+  <script src="src/main.js"></script>
+</body>
+
+</html>

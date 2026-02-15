@@ -1,0 +1,57 @@
+name: Update Dam Data
+
+on:
+  schedule:
+    # Real-time data: every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-realtime:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch real-time data
+        run: python scripts/fetch_realtime.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/realtime.json
+          git diff --cached --quiet || git commit -m "chore: update realtime dam data [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+          git push
+
+  update-historical:
+    runs-on: ubuntu-latest
+    # Run daily at 3:00 AM JST (18:00 UTC)
+    if: github.event.schedule == '0 18 * * *' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch historical data
+        run: python scripts/fetch_historical.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/historical/
+          git diff --cached --quiet || git commit -m "chore: update historical dam data [$(date -u +'%Y-%m-%d')]"
+          git push
