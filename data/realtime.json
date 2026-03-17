@@ -1,5 +1,5 @@
 {
-  "_timestamp": "2026-03-17T05:58:42.994329",
+  "_timestamp": "2026-03-17T07:12:28.819248",
   "d001": {
     "rate": null,
     "level": null,
@@ -9,24 +9,24 @@
   },
   "d002": {
     "rate": 0,
-    "level": 690.61,
+    "level": 690.63,
     "inflow": 14.1,
     "outflow": 2.7,
-    "updatedAt": "2026/03/17 05:00"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d003": {
     "rate": 32,
     "level": 249.37,
     "inflow": 4.57,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 17.36,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d004": {
     "rate": 68,
     "level": 390.27,
     "inflow": 16.56,
     "outflow": 16.56,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d005": {
     "rate": null,
@@ -37,38 +37,38 @@
   },
   "d006": {
     "rate": 0,
-    "level": 459.38,
-    "inflow": 3,
-    "outflow": 3,
-    "updatedAt": "2026/03/17 05:00"
+    "level": 459.34,
+    "inflow": 14,
+    "outflow": 73,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d007": {
     "rate": 0,
-    "level": 243.53,
-    "inflow": -37,
+    "level": 243.46,
+    "inflow": 58,
     "outflow": 2,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d008": {
     "rate": 47.8,
     "level": 303.57,
-    "inflow": 12.35,
+    "inflow": 12.19,
     "outflow": 5.64,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d009": {
     "rate": 64.6,
     "level": 177.16,
     "inflow": 68.33,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d010": {
     "rate": 31.8,
-    "level": 829.92,
+    "level": 829.91,
     "inflow": 5.87,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d011": {
     "rate": null,
@@ -79,73 +79,73 @@
   },
   "d012": {
     "rate": 40.9,
-    "level": 438.16,
-    "inflow": 16.9,
+    "level": 438.18,
+    "inflow": 27.09,
     "outflow": 0.43,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d030": {
-    "rate": 80.6,
-    "level": 292.15,
-    "inflow": 12.4,
-    "outflow": 31.98,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 80.5,
+    "level": 292.14,
+    "inflow": 0,
+    "outflow": 32.3,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d014": {
     "rate": 30.8,
     "level": 528.55,
     "inflow": 0.51,
     "outflow": 0.51,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d015": {
     "rate": 46.5,
     "level": 363.9,
-    "inflow": 0,
+    "inflow": 0.48,
     "outflow": 0.48,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d016": {
-    "rate": 35.3,
-    "level": 558.9,
-    "inflow": 13.48,
-    "outflow": 13.48,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 35.2,
+    "level": 558.89,
+    "inflow": 8.22,
+    "outflow": 13.5,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d017": {
     "rate": 87.1,
     "level": 354.57,
     "inflow": 1.12,
     "outflow": 1.49,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d018": {
-    "rate": 11.3,
-    "level": 219.65,
-    "inflow": 5.32,
+    "rate": 11.2,
+    "level": 219.61,
+    "inflow": 4.89,
     "outflow": 9.5,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d019": {
     "rate": 59.5,
     "level": 333.61,
-    "inflow": 6.48,
-    "outflow": 8.42,
-    "updatedAt": "2026/03/17 05:50"
+    "inflow": 7.75,
+    "outflow": 8.49,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d020": {
     "rate": 29.8,
     "level": 258.52,
     "inflow": 0.32,
     "outflow": 0.32,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d021": {
     "rate": 10.1,
-    "level": 443.94,
-    "inflow": 2.48,
+    "level": 443.96,
+    "inflow": 2.46,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d022": {
     "rate": null,
@@ -158,120 +158,120 @@
     "rate": 44.5,
     "level": 259.73,
     "inflow": 2.7,
-    "outflow": 2.2,
-    "updatedAt": "2026/03/17 05:40"
+    "outflow": 2.19,
+    "updatedAt": "2026/03/17 06:50"
   },
   "d024": {
     "rate": 82.8,
     "level": 289.68,
-    "inflow": 5.45,
-    "outflow": 5.46,
-    "updatedAt": "2026/03/17 05:50"
+    "inflow": 5.98,
+    "outflow": 5.45,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d025": {
     "rate": 80.7,
     "level": 290.78,
     "inflow": 7.16,
-    "outflow": 7.17,
-    "updatedAt": "2026/03/17 05:50"
+    "outflow": 7.15,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d026": {
     "rate": 77.4,
     "level": 323.47,
     "inflow": 1.03,
-    "outflow": 1.04,
-    "updatedAt": "2026/03/17 05:50"
+    "outflow": 1.03,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d027": {
     "rate": 94.5,
     "level": 613.9,
     "inflow": 1.59,
     "outflow": 1.59,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d028": {
     "rate": 79.3,
     "level": 582.78,
-    "inflow": 4.6,
+    "inflow": 1.96,
     "outflow": 1.96,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d029": {
     "rate": 2.9,
-    "level": 216.34,
-    "inflow": 39.03,
-    "outflow": 39,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 216.33,
+    "inflow": 34.1,
+    "outflow": 38.9,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d943": {
-    "rate": 52.2,
-    "level": 43.45,
-    "inflow": 22.96,
-    "outflow": 26.85,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 51.9,
+    "level": 43.44,
+    "inflow": 20.27,
+    "outflow": 26.83,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d013": {
-    "rate": 26.9,
-    "level": 350.37,
-    "inflow": 0.83,
-    "outflow": 7.5,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 26.8,
+    "level": 350.34,
+    "inflow": 1.24,
+    "outflow": 7.45,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d033": {
     "rate": 24,
-    "level": 396.39,
-    "inflow": 5.46,
+    "level": 396.37,
+    "inflow": 4.34,
     "outflow": 14.96,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d035": {
     "rate": 8.4,
-    "level": 780.42,
-    "inflow": 5.05,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 780.43,
+    "inflow": 6.21,
+    "outflow": 25.5,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d031": {
-    "rate": 22.1,
-    "level": 329.85,
-    "inflow": 9.72,
-    "outflow": 21.02,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 22,
+    "level": 329.83,
+    "inflow": 5.25,
+    "outflow": 40.77,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d944": {
-    "rate": 37.4,
+    "rate": 37.5,
     "level": 305.91,
-    "inflow": 3.24,
+    "inflow": 2.39,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d036": {
-    "rate": 35.1,
-    "level": 241.41,
-    "inflow": 8.89,
+    "rate": 35,
+    "level": 241.4,
+    "inflow": 5,
     "outflow": 8.89,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d037": {
     "rate": 82.7,
     "level": 153.56,
     "inflow": 0.6,
     "outflow": 0.6,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d038": {
     "rate": 0,
     "level": 114.16,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d039": {
-    "rate": 27.8,
-    "level": 370.25,
-    "inflow": 9.57,
-    "outflow": 51.11,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 27.6,
+    "level": 370.13,
+    "inflow": 9.58,
+    "outflow": 51.58,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d040": {
     "rate": null,
@@ -285,63 +285,63 @@
     "level": 238.32,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d042": {
     "rate": 0,
-    "level": 88.27,
-    "inflow": 19.15,
-    "outflow": 26.19,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 88.25,
+    "inflow": 19.18,
+    "outflow": 26.24,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d043": {
-    "rate": 90.3,
-    "level": 223.47,
-    "inflow": 6.11,
+    "rate": 90.4,
+    "level": 223.48,
+    "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d044": {
     "rate": 67.3,
-    "level": 194.33,
-    "inflow": 0.23,
-    "outflow": 0.23,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 194.32,
+    "inflow": 0.05,
+    "outflow": 0.24,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d045": {
     "rate": 0,
     "level": 228.21,
-    "inflow": 0.99,
+    "inflow": 0.01,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d046": {
     "rate": 50.3,
     "level": 263.58,
     "inflow": 2.55,
     "outflow": 2.75,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d047": {
-    "rate": 1,
-    "level": 236.91,
-    "inflow": 4.51,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 0.9,
+    "level": 236.88,
+    "inflow": 6.73,
+    "outflow": 10.88,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d048": {
     "rate": 7,
-    "level": 297.44,
-    "inflow": 2.01,
+    "level": 297.45,
+    "inflow": 2.1,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d049": {
-    "rate": 6.6,
-    "level": 121.27,
-    "inflow": 14.42,
+    "rate": 6.7,
+    "level": 121.33,
+    "inflow": 14.26,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d050": {
     "rate": null,
@@ -352,45 +352,45 @@
   },
   "d051": {
     "rate": 0,
-    "level": 36.39,
-    "inflow": 19,
+    "level": 36.38,
+    "inflow": 18,
     "outflow": 18,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d052": {
     "rate": 98.7,
     "level": 210.31,
     "inflow": 10.97,
-    "outflow": 10.59,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 10.36,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d053": {
     "rate": 100,
     "level": 232.34,
     "inflow": 1.66,
-    "outflow": 2.48,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 2.51,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d054": {
     "rate": 59.7,
     "level": 92.91,
     "inflow": 1.86,
-    "outflow": 2.67,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 2.66,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d055": {
     "rate": 62.2,
-    "level": 277.78,
-    "inflow": 0.8,
+    "level": 277.77,
+    "inflow": 0.2,
     "outflow": 0.8,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d056": {
     "rate": 100,
     "level": 182.84,
     "inflow": 3.06,
-    "outflow": 3.39,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 3.42,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d057": {
     "rate": null,
@@ -400,67 +400,67 @@
     "updatedAt": null
   },
   "d058": {
-    "rate": 73,
-    "level": 142.36,
-    "inflow": 1.21,
+    "rate": 72.9,
+    "level": 142.35,
+    "inflow": 0.87,
     "outflow": 1.22,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d059": {
     "rate": 98.4,
     "level": 191.09,
     "inflow": 5.89,
-    "outflow": 6.4,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 6.3,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d060": {
     "rate": 45.8,
     "level": 122.56,
     "inflow": 2.8,
-    "outflow": 3.86,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 3.85,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d061": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d145": {
     "rate": 49.8,
     "level": 288.83,
     "inflow": 0.81,
     "outflow": 0.84,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d063": {
     "rate": 0,
-    "level": 252.65,
-    "inflow": 131,
+    "level": 253.46,
+    "inflow": 293,
     "outflow": 150,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d064": {
     "rate": 0,
-    "level": 0,
+    "level": 127.91,
     "inflow": 2,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d065": {
     "rate": 0,
-    "level": 0,
+    "level": 270.12,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d066": {
     "rate": 5.3,
     "level": 276.42,
-    "inflow": 3.11,
+    "inflow": 4.24,
     "outflow": 4.24,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d067": {
     "rate": null,
@@ -470,172 +470,172 @@
     "updatedAt": null
   },
   "d068": {
-    "rate": 36.1,
-    "level": 454.56,
-    "inflow": 1.04,
+    "rate": 37,
+    "level": 454.94,
+    "inflow": 61.58,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d069": {
     "rate": 72.4,
     "level": 420.11,
     "inflow": 3.43,
-    "outflow": 4.29,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 4.27,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d070": {
     "rate": 20.5,
     "level": 111.21,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d071": {
     "rate": 12.1,
     "level": 159.65,
     "inflow": 2.64,
-    "outflow": 2.64,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 2.63,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d072": {
     "rate": 49.8,
     "level": 181.85,
-    "inflow": 11.8,
-    "outflow": 1.53,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 1.53,
+    "outflow": 1.52,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d073": {
-    "rate": 9.8,
-    "level": 313.99,
-    "inflow": 5.07,
+    "rate": 9.7,
+    "level": 313.98,
+    "inflow": 2.03,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d074": {
     "rate": 0,
-    "level": 193.7,
-    "inflow": 0.82,
+    "level": 193.69,
+    "inflow": 0.15,
     "outflow": 0.82,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d075": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d076": {
     "rate": 26.6,
-    "level": 184.79,
-    "inflow": 10.94,
-    "outflow": 10.92,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 184.78,
+    "inflow": 9.47,
+    "outflow": 10.98,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d077": {
     "rate": 28.1,
-    "level": 179.25,
-    "inflow": 7.42,
-    "outflow": 6.9,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 179.26,
+    "inflow": 9.56,
+    "outflow": 6.89,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d078": {
-    "rate": 74.1,
-    "level": 167.78,
-    "inflow": 36.78,
-    "outflow": 36.75,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 74,
+    "level": 167.77,
+    "inflow": 27.84,
+    "outflow": 36.73,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d079": {
     "rate": 17.1,
-    "level": 196.6,
-    "inflow": 10.91,
-    "outflow": 19.99,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 196.59,
+    "inflow": 12.58,
+    "outflow": 19.9,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d080": {
-    "rate": 14.6,
-    "level": 145.76,
-    "inflow": 11.29,
-    "outflow": 8.28,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 14.7,
+    "level": 145.77,
+    "inflow": 11.38,
+    "outflow": 8.23,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d081": {
     "rate": 0,
-    "level": 236.62,
-    "inflow": 9.59,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 05:40"
+    "level": 236.64,
+    "inflow": 10.38,
+    "outflow": 11.15,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d082": {
-    "rate": 45.2,
-    "level": 349.55,
-    "inflow": 6.9,
-    "outflow": 6.89,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 45.1,
+    "level": 349.54,
+    "inflow": 6.51,
+    "outflow": 6.99,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d083": {
     "rate": 0,
-    "level": 389.47,
-    "inflow": 1,
+    "level": 389.77,
+    "inflow": 72,
     "outflow": 7,
-    "updatedAt": "2026/03/17 05:00"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d084": {
     "rate": 0,
     "level": 291.55,
     "inflow": 0.48,
     "outflow": 0.48,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d085": {
     "rate": 0,
     "level": 151.64,
     "inflow": 0.08,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d086": {
     "rate": 65.8,
-    "level": 670.09,
-    "inflow": 1.67,
+    "level": 670.1,
+    "inflow": 1.72,
     "outflow": 0.56,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d087": {
-    "rate": 48.5,
-    "level": 860.55,
-    "inflow": 2.22,
+    "rate": 48.6,
+    "level": 860.56,
+    "inflow": 1.83,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d088": {
-    "rate": 3.2,
-    "level": 544.52,
-    "inflow": 4.39,
-    "outflow": 11.33,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 3,
+    "level": 544.45,
+    "inflow": 4.37,
+    "outflow": 11.31,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d089": {
     "rate": 6.3,
-    "level": 507.69,
+    "level": 507.7,
     "inflow": 1.35,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d090": {
     "rate": 0,
     "level": 80.16,
     "inflow": 1,
     "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d091": {
     "rate": 0,
     "level": 37.05,
-    "inflow": 1.68,
-    "outflow": 1.69,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 1.53,
+    "outflow": 1.67,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d092": {
     "rate": null,
@@ -647,58 +647,58 @@
   "d093": {
     "rate": 0,
     "level": 160.93,
-    "inflow": 35.2,
-    "outflow": 35.2,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 34.89,
+    "outflow": 34.89,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d094": {
     "rate": 0,
-    "level": 100.47,
-    "inflow": 19.78,
-    "outflow": 14.55,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 100.43,
+    "inflow": 30.29,
+    "outflow": 14.5,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d095": {
     "rate": 49.1,
-    "level": 172.69,
-    "inflow": 7.7,
+    "level": 172.68,
+    "inflow": 7.63,
     "outflow": 7.7,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d096": {
-    "rate": 86.8,
-    "level": 243.71,
-    "inflow": 10,
-    "outflow": 10,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 86.9,
+    "level": 243.72,
+    "inflow": 11.05,
+    "outflow": 9.9,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d097": {
     "rate": 0,
     "level": 182.46,
-    "inflow": 4.44,
+    "inflow": 4.45,
     "outflow": 4.44,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d098": {
     "rate": 39.3,
-    "level": 543.71,
-    "inflow": 17.09,
+    "level": 543.72,
+    "inflow": 6.58,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d099": {
     "rate": 0,
-    "level": 1037.74,
+    "level": 1037.75,
     "inflow": 1.02,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d100": {
     "rate": 0,
     "level": 785.38,
     "inflow": 0.17,
-    "outflow": 0.26,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.27,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d101": {
     "rate": null,
@@ -715,46 +715,46 @@
     "updatedAt": null
   },
   "d103": {
-    "rate": 31.8,
-    "level": 806.59,
-    "inflow": 3.7,
-    "outflow": 9.93,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 31.6,
+    "level": 806.57,
+    "inflow": 3.44,
+    "outflow": 9.85,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d104": {
     "rate": 0,
-    "level": 545.5,
-    "inflow": 3.61,
+    "level": 545.59,
+    "inflow": 5.97,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d105": {
     "rate": 0,
     "level": 394.5,
     "inflow": 0.57,
-    "outflow": 2.42,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 2.32,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d106": {
     "rate": 42.5,
-    "level": 390.84,
+    "level": 390.86,
     "inflow": 12.79,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d107": {
     "rate": 7.3,
     "level": 250.4,
     "inflow": 0.1,
     "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d108": {
     "rate": 42.2,
     "level": 452.94,
     "inflow": 2.56,
     "outflow": 2.56,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d109": {
     "rate": null,
@@ -765,10 +765,10 @@
   },
   "d110": {
     "rate": 0,
-    "level": 269.33,
-    "inflow": 1.25,
+    "level": 269.31,
+    "inflow": 2.82,
     "outflow": 0.55,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d111": {
     "rate": null,
@@ -782,56 +782,56 @@
     "level": 385.5,
     "inflow": 0.52,
     "outflow": 0.52,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d113": {
     "rate": 0,
-    "level": 216.5,
-    "inflow": 0.21,
+    "level": 216.49,
+    "inflow": 0.11,
     "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d114": {
     "rate": 0,
     "level": 190.8,
-    "inflow": 0.7,
+    "inflow": 4,
     "outflow": 4,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d115": {
     "rate": 87.7,
-    "level": 385.55,
+    "level": 385.54,
     "inflow": 2.11,
     "outflow": 4.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d116": {
     "rate": 0,
     "level": 108.06,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d117": {
     "rate": 100,
     "level": 245.84,
     "inflow": 5.67,
     "outflow": 5.65,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d118": {
     "rate": 0,
-    "level": 103.83,
-    "inflow": 34.06,
-    "outflow": 52.5,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 103.79,
+    "inflow": 34.29,
+    "outflow": 52.41,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d119": {
-    "rate": 39,
-    "level": 244.84,
-    "inflow": 7.01,
-    "outflow": 2,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 39.1,
+    "level": 244.85,
+    "inflow": 7.06,
+    "outflow": 4,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d120": {
     "rate": null,
@@ -843,16 +843,16 @@
   "d121": {
     "rate": 50,
     "level": 173.36,
-    "inflow": 1.1,
+    "inflow": 1.2,
     "outflow": 1.1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d122": {
     "rate": 57.5,
     "level": 250.78,
     "inflow": 0.16,
     "outflow": 0.16,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d123": {
     "rate": null,
@@ -862,46 +862,46 @@
     "updatedAt": null
   },
   "d124": {
-    "rate": 23.2,
-    "level": 72.38,
-    "inflow": 1.22,
-    "outflow": 6.15,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 23.1,
+    "level": 72.37,
+    "inflow": 3.09,
+    "outflow": 6.2,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d125": {
-    "rate": 87.7,
-    "level": 201.29,
-    "inflow": 8.48,
-    "outflow": 15.78,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 87.6,
+    "level": 201.27,
+    "inflow": 7.94,
+    "outflow": 15.9,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d126": {
     "rate": 87.9,
-    "level": 194.04,
-    "inflow": 3.15,
+    "level": 194.05,
+    "inflow": 2.84,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d127": {
     "rate": 25.2,
     "level": 103.35,
     "inflow": 0.61,
-    "outflow": 0.72,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.92,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d128": {
-    "rate": 26.9,
-    "level": 197.1,
-    "inflow": 0.24,
+    "rate": 26.8,
+    "level": 197.08,
+    "inflow": 0,
     "outflow": 1.46,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d129": {
     "rate": 48,
-    "level": 276.13,
-    "inflow": 1.66,
-    "outflow": 4.39,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 276.12,
+    "inflow": 1.9,
+    "outflow": 4.37,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d130": {
     "rate": null,
@@ -912,115 +912,115 @@
   },
   "d131": {
     "rate": 42.3,
-    "level": 251.81,
-    "inflow": 1.02,
+    "level": 251.8,
+    "inflow": 0.54,
     "outflow": 1.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d132": {
-    "rate": 20.7,
-    "level": 160.85,
-    "inflow": 8.04,
+    "rate": 20.9,
+    "level": 160.9,
+    "inflow": 6.43,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d133": {
     "rate": 15.5,
     "level": 216.19,
-    "inflow": 0.4,
-    "outflow": 0.4,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.39,
+    "outflow": 0.38,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d134": {
     "rate": 94.8,
     "level": 161.28,
     "inflow": 0.72,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d135": {
     "rate": 0,
-    "level": 458.92,
-    "inflow": 0.51,
+    "level": 458.94,
+    "inflow": 10.06,
     "outflow": 0.51,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d136": {
     "rate": 0,
-    "level": 180.06,
-    "inflow": 7.36,
+    "level": 180.07,
+    "inflow": 12.99,
     "outflow": 0.99,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d137": {
     "rate": 84.4,
     "level": 36.2,
     "inflow": 0.02,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d138": {
     "rate": 68.4,
-    "level": 76.94,
+    "level": 76.93,
     "inflow": 0,
-    "outflow": 3.43,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 3.42,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d139": {
     "rate": 65.6,
     "level": 22.73,
     "inflow": 0.02,
     "outflow": 0.14,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d140": {
     "rate": 37.4,
-    "level": 58.81,
-    "inflow": 0.48,
+    "level": 58.8,
+    "inflow": 0,
     "outflow": 0.47,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d141": {
     "rate": 10.3,
-    "level": 197.01,
-    "inflow": 9.72,
+    "level": 197.04,
+    "inflow": 9.85,
     "outflow": 0.71,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d142": {
     "rate": 84.1,
     "level": 1115.72,
     "inflow": 0.73,
     "outflow": 0.84,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d143": {
-    "rate": 43.6,
-    "level": 196.51,
-    "inflow": 12.92,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 43.7,
+    "level": 196.53,
+    "inflow": 16.49,
+    "outflow": 28.16,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d144": {
-    "rate": 39.6,
-    "level": 272.35,
-    "inflow": 0.38,
+    "rate": 39.5,
+    "level": 272.34,
+    "inflow": 0.46,
     "outflow": 0.87,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d146": {
     "rate": 42.6,
     "level": 286.05,
     "inflow": 0.58,
-    "outflow": 1.21,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 1.2,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d147": {
     "rate": 41.3,
     "level": 261.52,
     "inflow": 0.29,
-    "outflow": 0.76,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.75,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d148": {
     "rate": null,
@@ -1030,11 +1030,11 @@
     "updatedAt": null
   },
   "d149": {
-    "rate": 33.7,
-    "level": 360.41,
-    "inflow": 0.41,
-    "outflow": 0.64,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 33.6,
+    "level": 360.4,
+    "inflow": 0.52,
+    "outflow": 0.61,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d150": {
     "rate": null,
@@ -1081,9 +1081,9 @@
   "d156": {
     "rate": 0,
     "level": 514.93,
-    "inflow": 3.29,
-    "outflow": 0.28,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.75,
+    "outflow": 0.35,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d157": {
     "rate": null,
@@ -1097,14 +1097,14 @@
     "level": 232.75,
     "inflow": 0.97,
     "outflow": 0.97,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d159": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d160": {
     "rate": null,
@@ -1123,86 +1123,86 @@
   "d901": {
     "rate": 0,
     "level": 500.68,
-    "inflow": 24.98,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:00"
+    "inflow": 17.85,
+    "outflow": 17.85,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d902": {
     "rate": 0,
-    "level": 608.5,
-    "inflow": -1.18,
-    "outflow": 0.85,
-    "updatedAt": "2026/03/17 14:00"
+    "level": 608.41,
+    "inflow": 3.73,
+    "outflow": 0.18,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d903": {
     "rate": 0,
-    "level": 962.07,
+    "level": 962.26,
     "inflow": 2.9,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:00"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d904": {
     "rate": 0,
-    "level": 554.65,
-    "inflow": 2.7,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 05:00"
+    "level": 554.37,
+    "inflow": 5.6,
+    "outflow": 87,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d905": {
     "rate": 0,
     "level": 59.36,
     "inflow": 1.36,
     "outflow": 1.36,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d906": {
     "rate": 0,
-    "level": 312.13,
-    "inflow": 50,
-    "outflow": 50,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 312.12,
+    "inflow": 51,
+    "outflow": 51,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d907": {
     "rate": 0,
-    "level": 279.75,
+    "level": 279.77,
     "inflow": 60,
     "outflow": 56,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d908": {
     "rate": 0,
-    "level": 213.63,
-    "inflow": 125,
-    "outflow": 67,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 213.9,
+    "inflow": 133,
+    "outflow": 64,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d909": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d910": {
     "rate": 0,
-    "level": 161.16,
+    "level": 161.14,
     "inflow": 146,
-    "outflow": 151,
-    "updatedAt": "2026/03/17 05:50"
+    "outflow": 153,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d911": {
     "rate": 0,
-    "level": 139.84,
-    "inflow": 149,
-    "outflow": 147,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 139.86,
+    "inflow": 150,
+    "outflow": 148,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d912": {
     "rate": 0,
-    "level": 124.4,
-    "inflow": 161,
-    "outflow": 155,
-    "updatedAt": "2026/03/17 05:50"
+    "level": 124.43,
+    "inflow": 160,
+    "outflow": 154,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d913": {
     "rate": null,
@@ -1297,17 +1297,17 @@
   },
   "d926": {
     "rate": 0,
-    "level": 106.14,
-    "inflow": 14,
+    "level": 105.97,
+    "inflow": -4,
     "outflow": 52,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d927": {
     "rate": 0,
-    "level": 56.37,
+    "level": 56.35,
     "inflow": 49,
     "outflow": 61,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d928": {
     "rate": null,
@@ -1318,24 +1318,24 @@
   },
   "d929": {
     "rate": 0,
-    "level": 0,
+    "level": 288.52,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d930": {
     "rate": 0,
-    "level": 0,
-    "inflow": 14,
+    "level": 188.54,
+    "inflow": -3,
     "outflow": 14,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d931": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d932": {
     "rate": null,
@@ -1367,10 +1367,10 @@
   },
   "d936": {
     "rate": 0,
-    "level": 232.01,
-    "inflow": 2.7,
-    "outflow": 2.9,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 230.97,
+    "inflow": 2.4,
+    "outflow": 2.6,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d937": {
     "rate": null,
@@ -1395,738 +1395,738 @@
   },
   "d940": {
     "rate": 0,
-    "level": 122.55,
-    "inflow": 3.82,
+    "level": 122.57,
+    "inflow": 0.67,
     "outflow": 0.67,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d941": {
     "rate": 0,
     "level": 79.26,
     "inflow": 0.4,
     "outflow": 0.4,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d942": {
     "rate": 0,
-    "level": 357.62,
-    "inflow": 0.15,
+    "level": 357.64,
+    "inflow": 1.59,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d945": {
     "rate": 86.5,
     "level": 248.02,
-    "inflow": 2.11,
-    "outflow": 1.87,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 2.15,
+    "outflow": 2.24,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d946": {
-    "rate": 52.7,
-    "level": 196.12,
-    "inflow": 6.89,
+    "rate": 52.5,
+    "level": 196.06,
+    "inflow": 7.48,
     "outflow": 13.15,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d947": {
     "rate": 0,
     "level": 677.27,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d948": {
-    "rate": 92.7,
-    "level": 134.81,
-    "inflow": 6.77,
-    "outflow": 5.27,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 93.3,
+    "level": 134.82,
+    "inflow": 6.34,
+    "outflow": 7.15,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d949": {
     "rate": 0,
     "level": 60.71,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d950": {
     "rate": 0,
     "level": 172.55,
     "inflow": 0.86,
     "outflow": 0.86,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d951": {
     "rate": 0,
     "level": 238.03,
-    "inflow": 0.58,
-    "outflow": 0.56,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.63,
+    "outflow": 0.57,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d952": {
     "rate": 74.8,
-    "level": 156.69,
-    "inflow": 2.34,
-    "outflow": 4.49,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 156.68,
+    "inflow": 2.77,
+    "outflow": 4.51,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d953": {
     "rate": 0,
-    "level": 269.62,
-    "inflow": 2.29,
+    "level": 269.61,
+    "inflow": 2.45,
     "outflow": 2.7,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d954": {
     "rate": 0,
     "level": 31.23,
     "inflow": 0.47,
     "outflow": 0.36,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d955": {
-    "rate": 107.1,
-    "level": 271.65,
-    "inflow": 0.6,
-    "outflow": 0.54,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 109.5,
+    "level": 271.67,
+    "inflow": 0.7,
+    "outflow": 0.56,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d956": {
-    "rate": 63,
-    "level": 114.16,
-    "inflow": 3.61,
-    "outflow": 15.47,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 62.6,
+    "level": 114.09,
+    "inflow": 5.74,
+    "outflow": 36.86,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d957": {
     "rate": 0,
     "level": 1207.06,
-    "inflow": 2.15,
+    "inflow": 2.16,
     "outflow": 1.83,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d958": {
-    "rate": 53.5,
-    "level": 179.37,
-    "inflow": 4.95,
-    "outflow": 9.5,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 53.4,
+    "level": 179.33,
+    "inflow": 6.03,
+    "outflow": 9.15,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d959": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d960": {
-    "rate": 110.7,
-    "level": 121.2,
-    "inflow": 1.52,
-    "outflow": 1.52,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 110.8,
+    "level": 121.21,
+    "inflow": 1.81,
+    "outflow": 1.55,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d961": {
-    "rate": 97.9,
-    "level": 142.39,
-    "inflow": 0.14,
+    "rate": 97.6,
+    "level": 142.38,
+    "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d962": {
     "rate": 103.6,
     "level": 123.94,
-    "inflow": 0.19,
-    "outflow": 0.29,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.29,
+    "outflow": 0.33,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d963": {
     "rate": 124.3,
     "level": 160.49,
     "inflow": 0.58,
     "outflow": 0.58,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d964": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d965": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d966": {
     "rate": 100.7,
     "level": 459.62,
     "inflow": 6.3,
     "outflow": 6.3,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d967": {
     "rate": 100,
-    "level": 213.64,
+    "level": 213.65,
     "inflow": 4.27,
-    "outflow": 4.71,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 4.77,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d968": {
     "rate": 104.2,
     "level": 292.45,
     "inflow": 5.79,
     "outflow": 5.79,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d969": {
     "rate": 0,
     "level": 384,
-    "inflow": 2.45,
-    "outflow": 2.67,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 1.65,
+    "outflow": 1.04,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d970": {
     "rate": 98.5,
     "level": 176.18,
     "inflow": 0.21,
     "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d971": {
     "rate": 0,
-    "level": 185.56,
-    "inflow": 11.25,
-    "outflow": 7.12,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 185.5,
+    "inflow": 2.28,
+    "outflow": 7.43,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d972": {
     "rate": 0,
     "level": 169.53,
     "inflow": 0.15,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d973": {
     "rate": 0,
     "level": 56.18,
-    "inflow": 21.02,
+    "inflow": 18.91,
     "outflow": 19.43,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d974": {
     "rate": 100,
-    "level": 95.31,
+    "level": 95.3,
     "inflow": 0.21,
-    "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.18,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d975": {
     "rate": 100,
     "level": 88.58,
     "inflow": 0.1,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d976": {
     "rate": 5.9,
     "level": 135.02,
     "inflow": 0.68,
     "outflow": 0.6,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d977": {
     "rate": 100,
     "level": 238.03,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d978": {
     "rate": 100,
     "level": 64.07,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d979": {
     "rate": 64.4,
     "level": 330.56,
     "inflow": 2.35,
     "outflow": 2.5,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d980": {
     "rate": 100.6,
     "level": 437.82,
     "inflow": 1.09,
     "outflow": 1.44,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d981": {
     "rate": 0,
     "level": 350.34,
     "inflow": 1.48,
     "outflow": 1.48,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d982": {
     "rate": 0,
     "level": 250.16,
-    "inflow": 6.94,
-    "outflow": 7.01,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 6.84,
+    "outflow": 6.83,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d983": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d984": {
     "rate": 0,
     "level": 243.39,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d985": {
     "rate": 0,
-    "level": 85.05,
-    "inflow": 6.3,
-    "outflow": 6.85,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 85.04,
+    "inflow": 6.58,
+    "outflow": 6.84,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d986": {
     "rate": 100,
     "level": 153.82,
     "inflow": 0.39,
     "outflow": 0.39,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d987": {
     "rate": 41.4,
     "level": 121.79,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d988": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d989": {
     "rate": 51.6,
     "level": 64.99,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d990": {
     "rate": 46.4,
     "level": 44.6,
     "inflow": 0.08,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d991": {
     "rate": 67.9,
     "level": 72.2,
     "inflow": 0.26,
-    "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.34,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d992": {
-    "rate": 32.1,
-    "level": 216,
-    "inflow": 1.08,
+    "rate": 32.2,
+    "level": 216.03,
+    "inflow": 1.5,
     "outflow": 1.19,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d993": {
     "rate": 0,
     "level": 837.47,
-    "inflow": 0.69,
-    "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.49,
+    "outflow": 1.12,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d994": {
     "rate": 21.2,
     "level": 88.26,
-    "inflow": 0,
+    "inflow": 1,
     "outflow": 1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d995": {
     "rate": 0,
-    "level": 129.96,
+    "level": 129.95,
     "inflow": 0.11,
-    "outflow": 0.22,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.11,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d996": {
     "rate": 0,
     "level": 273.7,
-    "inflow": 3.95,
+    "inflow": 4.86,
     "outflow": 4.71,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d997": {
     "rate": 0,
-    "level": 424.73,
+    "level": 424.72,
     "inflow": 1.18,
     "outflow": 4,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d998": {
     "rate": 73.9,
     "level": 165.6,
     "inflow": 0.72,
     "outflow": 1.15,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d999": {
     "rate": 0,
     "level": 137.48,
     "inflow": 0.01,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1000": {
     "rate": 0,
-    "level": 122.24,
-    "inflow": 19.74,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 122.1,
+    "inflow": 12.92,
+    "outflow": 55.49,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1001": {
     "rate": 0,
-    "level": 80.76,
-    "inflow": 0.3,
-    "outflow": 31.95,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 80.38,
+    "inflow": 22.49,
+    "outflow": 30.84,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1002": {
     "rate": 0,
     "level": 98.26,
     "inflow": 0.75,
-    "outflow": 1.05,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 1.07,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1003": {
     "rate": 0,
     "level": 157.18,
     "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1004": {
     "rate": 100,
-    "level": 58.98,
-    "inflow": 0.31,
-    "outflow": 0.31,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 59,
+    "inflow": 1.31,
+    "outflow": 0.34,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1005": {
     "rate": 0,
-    "level": 263.41,
+    "level": 263.38,
     "inflow": 3,
-    "outflow": 3,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 5,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1006": {
     "rate": 0,
-    "level": 115.5,
-    "inflow": 2.7,
+    "level": 115.46,
+    "inflow": 5.7,
     "outflow": 5.8,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1007": {
     "rate": 0,
     "level": 136.56,
     "inflow": 0.28,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1008": {
     "rate": 0,
-    "level": 99.37,
-    "inflow": 0.42,
-    "outflow": 0.4,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 99.38,
+    "inflow": 0.41,
+    "outflow": 0.42,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1009": {
     "rate": 0,
     "level": 36.39,
     "inflow": 1.13,
     "outflow": 1.13,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1010": {
     "rate": 0,
-    "level": 254.47,
-    "inflow": 1.93,
-    "outflow": 1.93,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 254.46,
+    "inflow": 1.87,
+    "outflow": 1.87,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1011": {
     "rate": 0,
-    "level": 85.18,
-    "inflow": 0.13,
-    "outflow": 0.13,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 85.17,
+    "inflow": 0.12,
+    "outflow": 0.12,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1012": {
     "rate": 0,
     "level": 127.05,
-    "inflow": 0.93,
-    "outflow": 0.82,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.8,
+    "outflow": 0.81,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1013": {
     "rate": 0,
     "level": 35.4,
     "inflow": 0.18,
     "outflow": 0.18,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1014": {
     "rate": 0,
-    "level": 192.93,
+    "level": 192.92,
     "inflow": 3.29,
     "outflow": 4.22,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1015": {
     "rate": 0,
     "level": 191.24,
     "inflow": 0.87,
-    "outflow": 0.86,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.87,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1016": {
     "rate": 0,
-    "level": 113.14,
-    "inflow": 3.8,
+    "level": 113.12,
+    "inflow": 3.81,
     "outflow": 7.34,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1017": {
     "rate": 99.2,
     "level": 204.83,
     "inflow": 1.1,
     "outflow": 2.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1018": {
     "rate": 0,
-    "level": 48.92,
-    "inflow": 172,
-    "outflow": 172,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 48.94,
+    "inflow": 178,
+    "outflow": 174,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1019": {
     "rate": 0,
-    "level": 104.52,
-    "inflow": 155,
-    "outflow": 150,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 104.56,
+    "inflow": 164,
+    "outflow": 155,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1020": {
     "rate": 0,
-    "level": 77.39,
-    "inflow": 167,
-    "outflow": 149,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 77.47,
+    "inflow": 156,
+    "outflow": 155,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1021": {
     "rate": 0,
-    "level": 767.21,
+    "level": 768.15,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1022": {
     "rate": 0,
     "level": 731.96,
     "inflow": 0.8,
     "outflow": 0.8,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1023": {
     "rate": 0,
     "level": 38.4,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1024": {
     "rate": 0,
-    "level": 308.66,
+    "level": 308.65,
     "inflow": 0.17,
     "outflow": 0.25,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1025": {
-    "rate": 93.5,
-    "level": 149.59,
+    "rate": 93.3,
+    "level": 149.58,
     "inflow": 0.56,
     "outflow": 0.56,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1026": {
     "rate": 0,
-    "level": 662.11,
-    "inflow": 0,
+    "level": 662.12,
+    "inflow": 2.65,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1027": {
     "rate": 0,
-    "level": 248.9,
-    "inflow": 14.09,
+    "level": 248.89,
+    "inflow": 3.28,
     "outflow": 8.01,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1028": {
     "rate": 0,
     "level": 520.29,
-    "inflow": 0.4,
+    "inflow": 0.41,
     "outflow": 0.41,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1029": {
     "rate": 0,
-    "level": 861.81,
-    "inflow": 2.25,
-    "outflow": 2.83,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 861.79,
+    "inflow": 2.19,
+    "outflow": 2.84,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1030": {
-    "rate": 19.9,
-    "level": 872.01,
+    "rate": 19.8,
+    "level": 872,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1031": {
     "rate": 0,
-    "level": 822.69,
+    "level": 822.7,
     "inflow": 0.04,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1032": {
     "rate": 0,
     "level": 0.84,
     "inflow": 7.07,
     "outflow": 7.07,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1033": {
     "rate": 0,
-    "level": 659.36,
-    "inflow": 0.02,
+    "level": 659.37,
+    "inflow": 0.01,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1034": {
     "rate": 0,
     "level": 308.41,
     "inflow": 0.08,
-    "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.08,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1035": {
     "rate": 0,
     "level": 306.33,
     "inflow": 0.05,
-    "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.06,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1036": {
     "rate": 0,
     "level": 189.72,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1037": {
     "rate": 0,
     "level": 841.65,
     "inflow": 0.2,
     "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1038": {
     "rate": 0,
     "level": 498.96,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1039": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1040": {
     "rate": 0,
-    "level": 753.63,
-    "inflow": 9.29,
+    "level": 753.64,
+    "inflow": 10.14,
     "outflow": 9.9,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1041": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1042": {
-    "rate": 6.1,
-    "level": 866.17,
-    "inflow": 1.08,
+    "rate": 6,
+    "level": 866.12,
+    "inflow": 1.36,
     "outflow": 5.47,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1043": {
     "rate": 0,
     "level": 1049.47,
     "inflow": 0.71,
     "outflow": 0.71,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1044": {
     "rate": 0,
     "level": 629.78,
     "inflow": 0.17,
-    "outflow": 0.24,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.25,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1045": {
     "rate": 0,
-    "level": 206.09,
+    "level": 206.04,
     "inflow": 13.4,
     "outflow": 15.7,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1046": {
     "rate": 0,
     "level": 803.58,
     "inflow": 1.35,
     "outflow": 1.35,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1047": {
     "rate": null,
@@ -2137,94 +2137,94 @@
   },
   "d1048": {
     "rate": 0,
-    "level": 700.42,
+    "level": 700.46,
     "inflow": 15.7,
     "outflow": 1.7,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1049": {
     "rate": 0,
-    "level": 351.64,
+    "level": 351.65,
     "inflow": 5,
     "outflow": 2,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1050": {
     "rate": 0,
     "level": 308.75,
-    "inflow": 2.03,
-    "outflow": 2.03,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 2.02,
+    "outflow": 2.02,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1051": {
     "rate": 0,
-    "level": 0,
-    "inflow": 0,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 163.09,
+    "inflow": 0.84,
+    "outflow": 0.87,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1052": {
     "rate": 0,
-    "level": 202.98,
+    "level": 201.56,
     "inflow": 0,
-    "outflow": 0.22,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.21,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1053": {
     "rate": 10.2,
     "level": 980.43,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1054": {
     "rate": 0,
     "level": 1051.6,
-    "inflow": 0,
+    "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1055": {
     "rate": 22.7,
     "level": 70.84,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1056": {
     "rate": 0,
     "level": 136.65,
     "inflow": 0,
-    "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1057": {
     "rate": 68.6,
     "level": 101.26,
     "inflow": 0.05,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1058": {
     "rate": 64.1,
     "level": 77.32,
-    "inflow": 0,
+    "inflow": 0.13,
     "outflow": 0.14,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1059": {
     "rate": 0,
-    "level": 64.76,
+    "level": 64.77,
     "inflow": 49.9,
     "outflow": 45.7,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1060": {
-    "rate": 79.6,
-    "level": 798.01,
-    "inflow": 0.04,
-    "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 80.4,
+    "level": 798.02,
+    "inflow": 0.48,
+    "outflow": 0.44,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1061": {
     "rate": null,
@@ -2238,182 +2238,182 @@
     "level": 158.26,
     "inflow": 0.36,
     "outflow": 0.36,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1063": {
     "rate": 90.9,
     "level": 349.61,
     "inflow": 0.03,
     "outflow": 0.12,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1064": {
     "rate": 75.1,
     "level": 30.26,
     "inflow": 0.39,
-    "outflow": 0.7,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.71,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1065": {
     "rate": 50.1,
     "level": 182.37,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1066": {
     "rate": 89.4,
     "level": 208.96,
     "inflow": 0.01,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1067": {
     "rate": 26.2,
     "level": 88.39,
     "inflow": 0,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1068": {
     "rate": 24.8,
     "level": 128.28,
-    "inflow": 0.07,
-    "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.03,
+    "outflow": 0.03,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1069": {
     "rate": 21.4,
     "level": 119.61,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1070": {
     "rate": 38.4,
     "level": 140.15,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1071": {
     "rate": 40.6,
     "level": 56.89,
     "inflow": 0.01,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1072": {
     "rate": 0,
     "level": 903.12,
-    "inflow": 0.89,
+    "inflow": 0.66,
     "outflow": 0.67,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1073": {
     "rate": 0,
     "level": 843.11,
     "inflow": 0.41,
     "outflow": 0.41,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1074": {
     "rate": 20.6,
-    "level": 597.26,
-    "inflow": 0.76,
-    "outflow": 0.85,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 597.27,
+    "inflow": 2.23,
+    "outflow": 0.88,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1075": {
     "rate": 0,
     "level": 35.69,
     "inflow": 0.01,
-    "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.01,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1076": {
     "rate": 0,
     "level": 58,
     "inflow": 0.05,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1077": {
     "rate": 0,
-    "level": 890.75,
-    "inflow": 0.47,
+    "level": 890.76,
+    "inflow": 0.48,
     "outflow": 0.42,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1078": {
     "rate": 0,
     "level": 62.45,
     "inflow": 0.07,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1079": {
     "rate": 0,
-    "level": 382.74,
+    "level": 382.84,
     "inflow": 1.47,
     "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1080": {
     "rate": 0,
-    "level": 301.2,
-    "inflow": 1.19,
-    "outflow": 5.39,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 301.18,
+    "inflow": 0.3,
+    "outflow": 5.15,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1081": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1082": {
     "rate": 0,
-    "level": 110.84,
+    "level": 110.74,
     "inflow": 2,
     "outflow": 7,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1083": {
     "rate": 0,
     "level": 70.18,
-    "inflow": 7.71,
-    "outflow": 7.67,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 7.67,
+    "outflow": 7.65,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1084": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1085": {
     "rate": 33.4,
     "level": 619.06,
     "inflow": 0.05,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1086": {
-    "rate": 54,
-    "level": 148.19,
+    "rate": 47,
+    "level": 147.28,
     "inflow": 0,
-    "outflow": 7.92,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 8.02,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1087": {
     "rate": 42.6,
     "level": 98.3,
-    "inflow": 0.01,
-    "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.15,
+    "outflow": 0.15,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1088": {
     "rate": null,
@@ -2426,1128 +2426,1128 @@
     "rate": 36.6,
     "level": 65.38,
     "inflow": 0,
-    "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.02,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1090": {
     "rate": 35.9,
     "level": 156.3,
     "inflow": 0.01,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1091": {
     "rate": 0,
     "level": 132.73,
     "inflow": 0.2,
-    "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.3,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1092": {
     "rate": 0,
     "level": 291.98,
     "inflow": 1.2,
     "outflow": 1.2,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1093": {
     "rate": 0,
     "level": 389.55,
     "inflow": 1.29,
     "outflow": 1.29,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1094": {
     "rate": 0,
-    "level": 279,
-    "inflow": 1.2,
+    "level": 279.02,
+    "inflow": 1.3,
     "outflow": 1.2,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1095": {
     "rate": 0,
     "level": 155.98,
-    "inflow": 0.22,
+    "inflow": 0.23,
     "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1096": {
     "rate": 0,
     "level": 269.35,
-    "inflow": 3.2,
+    "inflow": 3,
     "outflow": 3,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1097": {
     "rate": 0,
     "level": 237.17,
     "inflow": 0.1,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1098": {
     "rate": 0,
     "level": 423.61,
     "inflow": 1.5,
     "outflow": 1.5,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1099": {
     "rate": 0,
     "level": 656.98,
     "inflow": 0,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1100": {
     "rate": 0,
-    "level": 204.3,
+    "level": 204.31,
     "inflow": 5.65,
-    "outflow": 5.65,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 5.75,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1101": {
     "rate": 0,
-    "level": 460.91,
-    "inflow": 7.76,
-    "outflow": 5.24,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 461,
+    "inflow": 7.86,
+    "outflow": 5.29,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1102": {
     "rate": 0,
     "level": 105.45,
     "inflow": 1.28,
     "outflow": 1.28,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1103": {
-    "rate": 100.3,
-    "level": 174.12,
-    "inflow": 0.02,
+    "rate": 100.2,
+    "level": 174.11,
+    "inflow": 0,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1104": {
     "rate": 60.1,
     "level": 118.64,
     "inflow": 0.1,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1105": {
     "rate": 0,
-    "level": 729.14,
-    "inflow": 1.4,
-    "outflow": 1.4,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 729.15,
+    "inflow": 1.6,
+    "outflow": 1.6,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1106": {
     "rate": 0,
     "level": 1447.63,
     "inflow": 0.12,
     "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1107": {
     "rate": 0,
-    "level": 616.91,
-    "inflow": 0.34,
+    "level": 616.9,
+    "inflow": 0.33,
     "outflow": 0.4,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1108": {
     "rate": 0,
     "level": 260.08,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1109": {
     "rate": 0,
     "level": 872.1,
-    "inflow": 0.73,
-    "outflow": 1.02,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 1.04,
+    "outflow": 1.03,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1110": {
     "rate": 0,
     "level": 378.23,
     "inflow": 0.2,
     "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1111": {
     "rate": 0,
-    "level": 234.22,
+    "level": 234.23,
     "inflow": 0.35,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1112": {
     "rate": 0,
-    "level": 287.52,
-    "inflow": 0.6,
-    "outflow": 0.78,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 287.53,
+    "inflow": 0.8,
+    "outflow": 0.99,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1113": {
     "rate": 0,
-    "level": 144.7,
-    "inflow": 0.82,
+    "level": 144.72,
+    "inflow": 0.83,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1114": {
     "rate": 0,
-    "level": 204.6,
+    "level": 204.5,
     "inflow": 0,
     "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1115": {
     "rate": 0,
-    "level": 261.86,
-    "inflow": 2.1,
+    "level": 261.87,
+    "inflow": 2.2,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1116": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1117": {
     "rate": 0,
-    "level": 239.47,
+    "level": 239.5,
     "inflow": 1.64,
     "outflow": 1.64,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1118": {
     "rate": 0,
     "level": 115.84,
-    "inflow": 1.47,
+    "inflow": 0.6,
     "outflow": 0.6,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1119": {
     "rate": 0,
     "level": 107.49,
     "inflow": 0.23,
     "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1120": {
     "rate": 0,
-    "level": 409.36,
+    "level": 409.35,
     "inflow": 4,
     "outflow": 4,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1121": {
     "rate": 0,
     "level": 490.34,
     "inflow": 0.82,
-    "outflow": 0.61,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.62,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1122": {
     "rate": 60.2,
     "level": 105.94,
     "inflow": 0.4,
     "outflow": 0.44,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1123": {
     "rate": 73.4,
     "level": 58.92,
     "inflow": 0.17,
-    "outflow": 0.11,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.12,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1124": {
     "rate": 76,
-    "level": 31.55,
+    "level": 31.54,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1125": {
     "rate": 77.6,
     "level": 29.79,
-    "inflow": 0,
+    "inflow": 0.09,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1126": {
-    "rate": 54.9,
-    "level": 83.98,
-    "inflow": 0.03,
-    "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 54.8,
+    "level": 83.97,
+    "inflow": 0.01,
+    "outflow": 0.08,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1127": {
     "rate": 72.4,
-    "level": 103.68,
-    "inflow": 0.06,
+    "level": 103.67,
+    "inflow": 0,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1128": {
-    "rate": 41.1,
-    "level": 78.63,
-    "inflow": 0.03,
-    "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 41,
+    "level": 78.62,
+    "inflow": 0,
+    "outflow": 0.04,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1129": {
     "rate": 76.6,
     "level": 54.78,
     "inflow": 0,
-    "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.01,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1130": {
     "rate": 100,
     "level": 19.28,
     "inflow": 0.89,
     "outflow": 0.89,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1131": {
     "rate": 90.2,
-    "level": 44.52,
+    "level": 44.51,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1132": {
     "rate": 83.4,
     "level": 87.89,
-    "inflow": 0,
-    "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.04,
+    "outflow": 0.03,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1133": {
     "rate": 100,
     "level": 49.85,
-    "inflow": 0,
+    "inflow": 0.17,
     "outflow": 0.17,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1134": {
     "rate": 90,
     "level": 84.82,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1135": {
     "rate": 35.7,
     "level": 65.34,
     "inflow": 0,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1136": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1137": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1138": {
     "rate": 62.4,
     "level": 52.55,
     "inflow": 0,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1139": {
     "rate": 38.4,
     "level": 65.18,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1140": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1141": {
     "rate": 70.1,
     "level": 224.39,
     "inflow": 0.22,
     "outflow": 0.31,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1142": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1143": {
     "rate": 100,
     "level": 58.64,
     "inflow": 0.18,
     "outflow": 0.18,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1144": {
     "rate": 80.5,
     "level": 59.37,
     "inflow": 0.01,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1145": {
     "rate": 100,
     "level": 22.99,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1146": {
     "rate": 100,
     "level": 38.03,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1147": {
     "rate": 87.5,
     "level": 56.58,
     "inflow": 0.02,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1148": {
     "rate": 95,
     "level": 64.74,
     "inflow": 0.01,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1149": {
     "rate": 58.8,
     "level": 58.41,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1150": {
     "rate": 100,
     "level": 29.16,
     "inflow": 0.55,
     "outflow": 0.55,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1151": {
     "rate": 100,
     "level": 45.13,
     "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1152": {
     "rate": 0,
     "level": 206.28,
     "inflow": 0.1,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1153": {
     "rate": 0,
     "level": 298.6,
-    "inflow": 0.22,
+    "inflow": 0.27,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1154": {
-    "rate": 91.9,
-    "level": 43.2,
+    "rate": 91.6,
+    "level": 43.19,
     "inflow": 0.2,
     "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1155": {
     "rate": 18.8,
     "level": 122.47,
     "inflow": 0.05,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1156": {
     "rate": 0,
-    "level": 152.36,
-    "inflow": 3.75,
-    "outflow": 3.6,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 152.37,
+    "inflow": 3.76,
+    "outflow": 3.58,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1157": {
     "rate": 98.4,
     "level": 99.02,
     "inflow": 0.01,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1158": {
     "rate": 100,
     "level": 29.8,
     "inflow": 0.04,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1159": {
     "rate": 88,
     "level": 82.21,
     "inflow": 0.01,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1160": {
     "rate": 0,
-    "level": 117.88,
-    "inflow": 6.7,
-    "outflow": 6.8,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 117.85,
+    "inflow": 6.1,
+    "outflow": 6.7,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1161": {
     "rate": 0,
     "level": 89.34,
     "inflow": 0.09,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1162": {
     "rate": 0,
-    "level": 143.66,
+    "level": 143.65,
     "inflow": 0.07,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1163": {
     "rate": 0,
     "level": 151.02,
-    "inflow": 0.03,
-    "outflow": 0.23,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.25,
+    "outflow": 0.24,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1164": {
     "rate": 53.4,
     "level": 305.15,
     "inflow": 1.16,
     "outflow": 0.96,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1165": {
     "rate": 0,
     "level": 46.81,
     "inflow": 0.18,
     "outflow": 0.18,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1166": {
     "rate": 0,
-    "level": 133.93,
-    "inflow": 1,
+    "level": 133.95,
+    "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1167": {
     "rate": 0,
     "level": 277,
     "inflow": 0.02,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1168": {
     "rate": 91,
     "level": 259.99,
     "inflow": 0.34,
     "outflow": 0.34,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1169": {
     "rate": 98.3,
     "level": 27.64,
     "inflow": 0.03,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1170": {
     "rate": 79,
     "level": 56.28,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1171": {
     "rate": 0,
-    "level": 94.86,
-    "inflow": 10.4,
+    "level": 94.8,
+    "inflow": 1.8,
     "outflow": 12.1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1172": {
     "rate": 0,
-    "level": 276.09,
+    "level": 276.01,
     "inflow": 0,
-    "outflow": 1.4,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1173": {
     "rate": 0,
     "level": 306.63,
     "inflow": 6.48,
     "outflow": 6.48,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1174": {
     "rate": 61.4,
-    "level": 354.84,
-    "inflow": 6.17,
-    "outflow": 10.33,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 354.83,
+    "inflow": 4.37,
+    "outflow": 8.85,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1175": {
     "rate": 0,
     "level": 355.56,
     "inflow": 0.42,
-    "outflow": 0.48,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.58,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1176": {
     "rate": 0,
     "level": 360.04,
     "inflow": 0,
     "outflow": 0.51,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1177": {
     "rate": 0,
     "level": 172.2,
     "inflow": 1.49,
-    "outflow": 1.49,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 1.48,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1178": {
     "rate": 78,
-    "level": 34.53,
+    "level": 34.51,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1179": {
     "rate": 0,
     "level": 107.65,
     "inflow": 0,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1180": {
     "rate": 0,
     "level": 179.76,
-    "inflow": 1,
+    "inflow": 0.6,
     "outflow": 0.9,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1181": {
     "rate": 76.2,
     "level": 60.93,
     "inflow": 0,
     "outflow": 0.37,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1182": {
     "rate": 0,
     "level": 145.7,
     "inflow": 0.1,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1183": {
     "rate": 0,
-    "level": 105,
-    "inflow": 0.05,
+    "level": 104.98,
+    "inflow": 0,
     "outflow": 0.53,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1184": {
     "rate": 0,
-    "level": 41.64,
+    "level": 41.63,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1185": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1186": {
     "rate": 0,
-    "level": 31.65,
+    "level": 31.64,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1187": {
     "rate": 0,
-    "level": 98.84,
-    "inflow": 1.8,
+    "level": 98.83,
+    "inflow": 0.1,
     "outflow": 0.8,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1188": {
     "rate": 0,
-    "level": 300.59,
+    "level": 300.54,
     "inflow": 0.1,
     "outflow": 0.12,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1189": {
     "rate": 0,
     "level": 42.88,
     "inflow": 4.57,
     "outflow": 4.57,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1190": {
     "rate": 0,
     "level": 250.14,
     "inflow": 0.19,
     "outflow": 0.19,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1191": {
     "rate": 0,
     "level": 75.18,
     "inflow": 0.1,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1192": {
     "rate": 0,
-    "level": 189.31,
+    "level": 189.3,
     "inflow": 0.14,
     "outflow": 0.14,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1193": {
     "rate": 0,
     "level": 63.83,
-    "inflow": 0.11,
-    "outflow": 0.11,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.1,
+    "outflow": 0.1,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1194": {
     "rate": 0,
     "level": 188.85,
     "inflow": 0.07,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1195": {
     "rate": 0,
     "level": 181.39,
     "inflow": 0.03,
-    "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.04,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1196": {
     "rate": 96.4,
     "level": 195.83,
-    "inflow": 0.21,
+    "inflow": 0.19,
     "outflow": 0.11,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1197": {
     "rate": 0,
-    "level": 91.19,
-    "inflow": 1,
-    "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 91.2,
+    "inflow": 1.01,
+    "outflow": 1.01,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1198": {
     "rate": 0,
     "level": 737.35,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1199": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1200": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1201": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1202": {
     "rate": 0,
     "level": 52.83,
-    "inflow": 0,
+    "inflow": 0.03,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1203": {
     "rate": 0,
     "level": 95.72,
     "inflow": 0.05,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1204": {
     "rate": 0,
-    "level": 139.62,
+    "level": 139.61,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1205": {
     "rate": 0,
-    "level": 98.48,
-    "inflow": 0.03,
+    "level": 98.47,
+    "inflow": 0,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1206": {
     "rate": 0,
     "level": 108.36,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1207": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1208": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1209": {
     "rate": 0,
     "level": 219.74,
     "inflow": 0.26,
     "outflow": 0.35,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1210": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1211": {
     "rate": 0,
     "level": 180.05,
     "inflow": 0.15,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1212": {
     "rate": 0,
     "level": 178.2,
     "inflow": 0.13,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1213": {
     "rate": 0,
     "level": 319.81,
     "inflow": 0.25,
     "outflow": 0.25,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1214": {
     "rate": 46.3,
     "level": 89.99,
     "inflow": 0.23,
     "outflow": 0.23,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1215": {
     "rate": 19.4,
     "level": 122.09,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1216": {
     "rate": 59.7,
     "level": 170.41,
     "inflow": 0.12,
     "outflow": 0.16,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1217": {
     "rate": 48.6,
-    "level": 54.59,
+    "level": 54.58,
     "inflow": 0.28,
     "outflow": 1.26,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1218": {
     "rate": 10.1,
     "level": 151.35,
     "inflow": 0.06,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1219": {
     "rate": 50.8,
     "level": 15.87,
     "inflow": 0.05,
-    "outflow": 0.16,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.33,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1220": {
     "rate": 57.9,
     "level": 90.61,
     "inflow": 0.26,
     "outflow": 1.42,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1221": {
     "rate": 69,
     "level": 35.78,
     "inflow": 2.27,
-    "outflow": 2.95,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 2.94,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1222": {
     "rate": 100,
     "level": 86.49,
     "inflow": 0.16,
     "outflow": 0.16,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1223": {
     "rate": 23,
     "level": 58.7,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1224": {
     "rate": 42.1,
     "level": 175.22,
     "inflow": 0.87,
     "outflow": 0.7,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1225": {
     "rate": 94.1,
     "level": 201.67,
     "inflow": 0,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1226": {
     "rate": 43.8,
     "level": 119.6,
     "inflow": 0.04,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1227": {
     "rate": 0,
-    "level": 228.82,
+    "level": 228.52,
     "inflow": 3.1,
     "outflow": 7.3,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1228": {
     "rate": 60,
-    "level": 81.45,
-    "inflow": 3.56,
+    "level": 81.46,
+    "inflow": 8.61,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1229": {
     "rate": 64.6,
     "level": 20.6,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1230": {
     "rate": 0,
-    "level": 183.59,
+    "level": 183.55,
     "inflow": 0,
-    "outflow": 7.7,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 9.2,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1231": {
     "rate": 74.9,
-    "level": 130.34,
-    "inflow": 0.87,
-    "outflow": 0.87,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 130.33,
+    "inflow": 0.26,
+    "outflow": 0.8,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1232": {
-    "rate": 78.5,
-    "level": 97.84,
-    "inflow": 0.48,
+    "rate": 78.6,
+    "level": 97.85,
+    "inflow": 0.64,
     "outflow": 0.17,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1233": {
     "rate": 82.5,
     "level": 214.85,
-    "inflow": 1,
-    "outflow": 1,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.99,
+    "outflow": 1.01,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1234": {
     "rate": 98.3,
     "level": 97.82,
     "inflow": 0.15,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1235": {
     "rate": 0,
-    "level": 41.2,
-    "inflow": 1.14,
-    "outflow": 0.84,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 41.19,
+    "inflow": 1.22,
+    "outflow": 0.8,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1236": {
-    "rate": 93.2,
-    "level": 127.56,
-    "inflow": 1.69,
+    "rate": 93.1,
+    "level": 127.55,
+    "inflow": 1.73,
     "outflow": 2.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1237": {
     "rate": 94.6,
     "level": 63.95,
-    "inflow": 0.44,
+    "inflow": 0.09,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1238": {
     "rate": 100,
     "level": 98.31,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1239": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1240": {
     "rate": 48,
     "level": 251.44,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1241": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1242": {
     "rate": 0,
     "level": 80.71,
-    "inflow": 5.4,
+    "inflow": 5.19,
     "outflow": 4.83,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1243": {
     "rate": 49.8,
     "level": 12.99,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1244": {
     "rate": 15.5,
     "level": 37.43,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1245": {
     "rate": 65.1,
     "level": 55.5,
     "inflow": 0,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1246": {
     "rate": 0,
-    "level": 311.45,
-    "inflow": 3.1,
+    "level": 311.46,
+    "inflow": 3.97,
     "outflow": 3.1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1247": {
     "rate": 0,
     "level": 334.49,
     "inflow": 0.86,
     "outflow": 0.86,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1248": {
     "rate": 0,
     "level": 349.78,
     "inflow": 2.56,
     "outflow": 2.56,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1249": {
     "rate": 0,
     "level": 238.23,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1250": {
     "rate": null,
@@ -3561,448 +3561,448 @@
     "level": 169.92,
     "inflow": 0.01,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1252": {
-    "rate": 30.5,
-    "level": 421.47,
-    "inflow": 2.54,
+    "rate": 30.6,
+    "level": 421.48,
+    "inflow": 2.39,
     "outflow": 0.92,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1253": {
     "rate": 100,
     "level": 83.04,
     "inflow": 0.08,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1254": {
     "rate": 0,
     "level": 93.5,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1255": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1256": {
     "rate": 0,
     "level": 108.3,
-    "inflow": 0,
+    "inflow": 0.11,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1257": {
     "rate": 0,
     "level": 109.47,
     "inflow": 0.01,
-    "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.02,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1258": {
     "rate": 0,
     "level": 455.06,
-    "inflow": 0,
+    "inflow": 0.9,
     "outflow": 0.9,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1259": {
     "rate": 0,
     "level": 9.47,
     "inflow": 9.57,
     "outflow": 9.57,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1260": {
     "rate": 24.2,
-    "level": 276.59,
-    "inflow": 4.15,
-    "outflow": 9.3,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 276.58,
+    "inflow": 6.41,
+    "outflow": 9.4,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1261": {
     "rate": 0,
-    "level": 208.44,
+    "level": 208.43,
     "inflow": 0,
     "outflow": 1.9,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1262": {
     "rate": 0,
     "level": 190.68,
     "inflow": 0.99,
     "outflow": 0.99,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1263": {
     "rate": 0,
-    "level": 3.57,
-    "inflow": 101.09,
-    "outflow": 95,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 3.56,
+    "inflow": 101.36,
+    "outflow": 95.27,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1264": {
     "rate": 0,
-    "level": 179.41,
-    "inflow": 0.53,
+    "level": 178.85,
+    "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1265": {
-    "rate": 9.2,
-    "level": 211.08,
+    "rate": 9.1,
+    "level": 211.05,
     "inflow": 0,
-    "outflow": 1.62,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 1.61,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1266": {
     "rate": 0,
     "level": 36.16,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1267": {
     "rate": 0,
     "level": 314.06,
-    "inflow": 0.21,
+    "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1268": {
     "rate": 62.1,
     "level": 148.36,
     "inflow": 0.08,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1269": {
     "rate": 0,
     "level": 66.09,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1270": {
     "rate": 0,
-    "level": 327.6,
-    "inflow": 4.37,
+    "level": 327.62,
+    "inflow": 4.8,
     "outflow": 4.37,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1271": {
     "rate": 0,
-    "level": 207.12,
-    "inflow": 2.79,
+    "level": 207.22,
+    "inflow": 2.9,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1272": {
     "rate": 0,
-    "level": 105.76,
+    "level": 105.34,
     "inflow": 0,
-    "outflow": 1.58,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 1.63,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1273": {
     "rate": 0,
     "level": 97.69,
     "inflow": 2.75,
     "outflow": 2.75,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1274": {
     "rate": 0,
     "level": 98.52,
     "inflow": 2.4,
     "outflow": 2.4,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1275": {
     "rate": 0,
     "level": 130.72,
     "inflow": 0.11,
     "outflow": 0.11,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1276": {
     "rate": 0,
     "level": 86.3,
-    "inflow": 0.11,
+    "inflow": 0.41,
     "outflow": 0.41,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1277": {
     "rate": 0,
     "level": 132.47,
     "inflow": 5.96,
     "outflow": 5.96,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1278": {
     "rate": 0,
-    "level": 319.11,
-    "inflow": 5.14,
-    "outflow": 10.33,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 319.08,
+    "inflow": 5.44,
+    "outflow": 10.46,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1279": {
     "rate": 0,
     "level": 43.27,
     "inflow": 0.6,
     "outflow": 0.6,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1280": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1281": {
     "rate": 0,
     "level": 148.59,
     "inflow": 1.23,
-    "outflow": 1.23,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 1.25,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1282": {
     "rate": 0,
     "level": 188.21,
-    "inflow": 0.83,
-    "outflow": 0.71,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.85,
+    "outflow": 0.7,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1283": {
     "rate": 0,
     "level": 89.23,
     "inflow": 0.27,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1284": {
     "rate": 0,
     "level": 340.07,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1285": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1286": {
     "rate": 0,
-    "level": 105.37,
-    "inflow": 3.91,
-    "outflow": 6.77,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 105.14,
+    "inflow": 3.67,
+    "outflow": 5.56,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1287": {
     "rate": 0,
-    "level": 60.05,
-    "inflow": 5.25,
-    "outflow": 5.25,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 60.03,
+    "inflow": 5.01,
+    "outflow": 5.15,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1288": {
     "rate": 0,
     "level": 206.88,
-    "inflow": 0.71,
-    "outflow": 0.72,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 0.72,
+    "outflow": 0.71,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1289": {
     "rate": 0,
-    "level": 166.38,
-    "inflow": 0,
+    "level": 166.37,
+    "inflow": 0.01,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1290": {
     "rate": 0,
-    "level": 212.53,
+    "level": 207.88,
     "inflow": 0.2,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1291": {
     "rate": 0,
-    "level": 522.22,
+    "level": 524.5,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1292": {
     "rate": 0,
-    "level": 110.55,
+    "level": 110.59,
     "inflow": 1,
-    "outflow": 5,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1293": {
     "rate": 0,
     "level": 313.88,
-    "inflow": 0,
+    "inflow": 0.1,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1294": {
     "rate": 0,
     "level": 297.6,
     "inflow": 0.1,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1295": {
     "rate": 29,
     "level": 10.43,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1296": {
     "rate": 93.6,
     "level": 3.34,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1297": {
     "rate": 52.8,
     "level": 153.33,
     "inflow": 0.07,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1298": {
     "rate": 0,
     "level": 9.05,
     "inflow": 0.23,
     "outflow": 0.25,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1299": {
     "rate": 25.1,
     "level": 288.79,
     "inflow": 0.68,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1300": {
     "rate": 0,
-    "level": 233.5,
+    "level": 233.42,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1301": {
     "rate": 0,
     "level": 225.59,
     "inflow": 0.12,
     "outflow": 0.12,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1302": {
     "rate": 73.1,
     "level": 115.61,
-    "inflow": 0.09,
+    "inflow": 0.1,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1303": {
     "rate": 94.4,
     "level": 280.02,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1304": {
     "rate": 0,
     "level": 0,
     "inflow": 2,
-    "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 4,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1305": {
     "rate": 0,
-    "level": 6.32,
+    "level": 6.3,
     "inflow": 1,
     "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1306": {
     "rate": 88.3,
     "level": 198.1,
     "inflow": 0.16,
     "outflow": 0.16,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1307": {
     "rate": 94.7,
     "level": 122.77,
     "inflow": 0.14,
     "outflow": 0.16,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1308": {
     "rate": 0,
-    "level": 120.48,
+    "level": 120.47,
     "inflow": 0,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1309": {
     "rate": 69.5,
     "level": 98.65,
     "inflow": 0.46,
     "outflow": 0.46,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1310": {
     "rate": 54,
     "level": 207.01,
     "inflow": 0.09,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1311": {
     "rate": 16.5,
     "level": 310.46,
     "inflow": 0.15,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1312": {
     "rate": 0,
-    "level": 0,
-    "inflow": 0,
+    "level": 365.51,
+    "inflow": 7,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1313": {
     "rate": 0,
     "level": 274.08,
     "inflow": 0.3,
     "outflow": 0.26,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1314": {
     "rate": 0,
     "level": 199.39,
     "inflow": 0.55,
     "outflow": 0.55,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1315": {
     "rate": null,
@@ -4016,126 +4016,126 @@
     "level": 369.86,
     "inflow": 1.55,
     "outflow": 1.56,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1317": {
     "rate": 0,
-    "level": 36.17,
-    "inflow": 1.25,
-    "outflow": 1.05,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 36.22,
+    "inflow": 2.41,
+    "outflow": 1.07,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1318": {
     "rate": 0,
     "level": 124.48,
     "inflow": 0.36,
     "outflow": 0.36,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1319": {
     "rate": 0,
     "level": 144.96,
-    "inflow": 2,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "inflow": 3,
+    "outflow": 3,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1320": {
     "rate": 0,
     "level": 151.28,
     "inflow": 0.09,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1321": {
     "rate": 0,
     "level": 397.22,
     "inflow": 0.06,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1322": {
     "rate": 0,
     "level": 157.62,
     "inflow": 0.39,
     "outflow": 0.39,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1323": {
     "rate": 0,
     "level": 148.57,
     "inflow": 0.06,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1324": {
     "rate": 0,
-    "level": 327.23,
+    "level": 327.24,
     "inflow": 11,
     "outflow": 10,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1325": {
     "rate": 0,
     "level": 329.01,
     "inflow": 0.07,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1326": {
     "rate": 0,
-    "level": 362.57,
+    "level": 362.58,
     "inflow": 3,
     "outflow": 0.7,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1327": {
     "rate": 0,
-    "level": 446.17,
+    "level": 446.16,
     "inflow": 10,
     "outflow": 10,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1328": {
     "rate": 0,
-    "level": 261.33,
-    "inflow": 1.53,
+    "level": 261.34,
+    "inflow": 1.64,
     "outflow": 0.17,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1329": {
     "rate": 0,
     "level": 322.57,
     "inflow": 1.3,
-    "outflow": 0.43,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.44,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1330": {
     "rate": 0,
     "level": 245.63,
     "inflow": 3,
     "outflow": 3,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1331": {
     "rate": 42.2,
-    "level": 387.4,
-    "inflow": 0.89,
+    "level": 387.38,
+    "inflow": 0.79,
     "outflow": 2.98,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1332": {
     "rate": 0,
-    "level": 55.14,
+    "level": 54.85,
     "inflow": 0,
     "outflow": 16,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1333": {
     "rate": 0,
     "level": 233.05,
     "inflow": 0.23,
     "outflow": 0.23,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1334": {
     "rate": null,
@@ -4149,1413 +4149,1413 @@
     "level": 126.99,
     "inflow": 0.09,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1336": {
     "rate": 0,
     "level": 47.23,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1337": {
     "rate": 0,
-    "level": 31.53,
+    "level": 31.54,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1338": {
     "rate": 53.7,
     "level": 114.5,
     "inflow": 0.06,
     "outflow": 0.17,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1339": {
     "rate": 0,
-    "level": 137.75,
+    "level": 137.77,
     "inflow": 0.06,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1340": {
     "rate": 0,
     "level": 179.79,
-    "inflow": 0.11,
-    "outflow": 0.6,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 0.08,
+    "outflow": 0.73,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1341": {
     "rate": 0,
-    "level": 170.95,
+    "level": 170.88,
     "inflow": 0.71,
     "outflow": 0.31,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1342": {
     "rate": 40.3,
     "level": 149.34,
     "inflow": 0.02,
     "outflow": 0.21,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1343": {
     "rate": 0,
     "level": 292.21,
     "inflow": 0.06,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1344": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1345": {
     "rate": 0,
-    "level": 185.81,
-    "inflow": 1.92,
-    "outflow": 2.08,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 185.8,
+    "inflow": 1.68,
+    "outflow": 1.76,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1346": {
     "rate": 0,
     "level": 176.86,
     "inflow": 0.04,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1347": {
     "rate": 0,
     "level": 167.96,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1348": {
     "rate": 0,
     "level": 167.07,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1349": {
     "rate": 0,
     "level": 108.32,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1350": {
     "rate": 0,
     "level": 191.01,
     "inflow": 0.01,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1351": {
     "rate": 0,
     "level": 151.1,
     "inflow": 0.06,
     "outflow": 0.07,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1352": {
     "rate": 0,
     "level": 151.11,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1353": {
     "rate": 0,
     "level": 175.56,
     "inflow": 0.08,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1354": {
     "rate": 0,
     "level": 259.48,
     "inflow": 0.2,
-    "outflow": 0.17,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.2,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1355": {
     "rate": 0,
     "level": 110.78,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1356": {
     "rate": 0,
     "level": 125.53,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1357": {
     "rate": 0,
     "level": 467.21,
-    "inflow": 1.57,
-    "outflow": 1.56,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 1.56,
+    "outflow": 1.55,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1358": {
     "rate": 0,
     "level": 128.15,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1359": {
     "rate": 0,
     "level": 211.46,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1360": {
     "rate": 0,
     "level": 129.21,
     "inflow": 0.71,
     "outflow": 0.71,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1361": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1362": {
     "rate": 0,
-    "level": 469.41,
+    "level": 469.44,
     "inflow": 1,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1363": {
     "rate": 1,
     "level": 437.04,
     "inflow": 49.76,
     "outflow": 49.76,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1364": {
     "rate": 62.3,
-    "level": 134.2,
-    "inflow": 0.21,
+    "level": 134.19,
+    "inflow": 0.2,
     "outflow": 0.31,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1365": {
     "rate": 0,
     "level": 140.17,
     "inflow": 1.35,
     "outflow": 1.35,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1366": {
     "rate": 0,
     "level": 142.45,
     "inflow": 0.15,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1367": {
     "rate": 0,
-    "level": 499.5,
-    "inflow": 9,
+    "level": 499.48,
+    "inflow": 4,
     "outflow": 8,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1368": {
     "rate": 0,
-    "level": 325.46,
-    "inflow": 3,
-    "outflow": 3,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 325.4,
+    "inflow": 2,
+    "outflow": 5,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1369": {
     "rate": 0,
-    "level": 377.99,
-    "inflow": 9,
+    "level": 378.08,
+    "inflow": 10,
     "outflow": 8,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1370": {
     "rate": 0,
-    "level": 206.02,
+    "level": 205.93,
     "inflow": 0,
     "outflow": 1,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1371": {
     "rate": 0,
     "level": 750.15,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1372": {
     "rate": 0,
-    "level": 525,
+    "level": 525.01,
     "inflow": 3,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1373": {
     "rate": 0,
-    "level": 300.34,
-    "inflow": 0.91,
+    "level": 300.19,
+    "inflow": 0.94,
     "outflow": 0.18,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1374": {
     "rate": 0,
-    "level": 337.96,
-    "inflow": 3.25,
-    "outflow": 2.52,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 337.97,
+    "inflow": 3.4,
+    "outflow": 2.58,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1375": {
     "rate": 0,
-    "level": 240.38,
-    "inflow": 6.22,
-    "outflow": 13.7,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 240.37,
+    "inflow": 5.71,
+    "outflow": 0,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1376": {
     "rate": 0,
     "level": 187.56,
     "inflow": 0,
-    "outflow": 0.55,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.54,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1377": {
     "rate": 0,
     "level": 123.04,
     "inflow": 0.7,
     "outflow": 0.7,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1378": {
     "rate": 0,
     "level": 276.63,
-    "inflow": 1.42,
+    "inflow": 1.43,
     "outflow": 1.43,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1379": {
     "rate": 0,
-    "level": 42.38,
-    "inflow": 32.88,
-    "outflow": 31.86,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 42.39,
+    "inflow": 32.96,
+    "outflow": 32.11,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1380": {
     "rate": 0,
     "level": 100.37,
     "inflow": 0.88,
-    "outflow": 0.86,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.88,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1381": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1382": {
     "rate": 0,
     "level": 261.36,
     "inflow": 0.81,
     "outflow": 0.73,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1383": {
     "rate": 0,
-    "level": 888.73,
-    "inflow": 1.7,
+    "level": 888.8,
+    "inflow": 1.9,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1384": {
     "rate": 0,
-    "level": 344.86,
-    "inflow": 3.17,
+    "level": 344.88,
+    "inflow": 3.8,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1385": {
     "rate": 0,
-    "level": 0,
-    "inflow": 0,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 333.67,
+    "inflow": 0.74,
+    "outflow": 1.42,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1386": {
     "rate": 0,
-    "level": 97.72,
+    "level": 97.71,
     "inflow": 0,
     "outflow": 0.5,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1387": {
     "rate": 0,
     "level": 38.56,
     "inflow": 0.06,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1388": {
     "rate": 0,
-    "level": 301.71,
+    "level": 301.7,
     "inflow": 0,
     "outflow": 0.39,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1389": {
     "rate": 0,
     "level": 266.67,
     "inflow": 0.14,
     "outflow": 0.11,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1390": {
     "rate": 0,
-    "level": 115.78,
-    "inflow": 21.39,
+    "level": 115.91,
+    "inflow": 21.05,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1391": {
     "rate": 0,
-    "level": 74.08,
-    "inflow": 5.32,
-    "outflow": 32.32,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 73.96,
+    "inflow": 6.82,
+    "outflow": 32.92,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1392": {
     "rate": 0,
-    "level": 33.06,
+    "level": 33.07,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1393": {
     "rate": 0,
-    "level": 314.07,
-    "inflow": 0.52,
+    "level": 314.08,
+    "inflow": 0.61,
     "outflow": 0.14,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1394": {
     "rate": 0,
     "level": 48.04,
     "inflow": 0.14,
     "outflow": 0.14,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1395": {
     "rate": 0,
     "level": 310.06,
     "inflow": 2.56,
     "outflow": 2.56,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1396": {
     "rate": 0,
-    "level": 107.32,
-    "inflow": 0.62,
-    "outflow": 0.3,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 107.33,
+    "inflow": 0.67,
+    "outflow": 0.5,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1397": {
     "rate": 0,
     "level": 258.99,
     "inflow": 2.01,
     "outflow": 2.01,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1398": {
     "rate": 0,
     "level": 154.46,
     "inflow": 0.04,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1399": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0.81,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1400": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0.13,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1401": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0.49,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1402": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 4.91,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1403": {
     "rate": 0,
-    "level": 274.35,
+    "level": 274.26,
     "inflow": 0,
-    "outflow": 0.2,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 11.02,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1404": {
     "rate": 0,
     "level": 346.95,
     "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1405": {
     "rate": 0,
-    "level": 113.99,
-    "inflow": 5.56,
+    "level": 114.01,
+    "inflow": 11.02,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1406": {
     "rate": 0,
-    "level": 324.78,
-    "inflow": 0.84,
+    "level": 324.79,
+    "inflow": 0.83,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:30"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1407": {
     "rate": 0,
     "level": 372.13,
     "inflow": 0.13,
     "outflow": 0.12,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1408": {
     "rate": 5.1,
     "level": 155.11,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1409": {
     "rate": 0,
-    "level": 246.39,
-    "inflow": 0,
+    "level": 246.42,
+    "inflow": 1.13,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1410": {
     "rate": 0,
     "level": 110.57,
     "inflow": 0.15,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:00"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1411": {
     "rate": 0,
-    "level": 39.56,
-    "inflow": 2.4,
-    "outflow": 13.58,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 39.47,
+    "inflow": 3.41,
+    "outflow": 13.6,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1412": {
     "rate": 0,
-    "level": 243.03,
-    "inflow": 0.17,
+    "level": 243.02,
+    "inflow": 0.16,
     "outflow": 0.25,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1413": {
     "rate": 0,
     "level": 410.09,
     "inflow": 0.09,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1414": {
     "rate": 0,
     "level": 395.21,
     "inflow": 0.47,
     "outflow": 0.47,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1415": {
     "rate": 0,
     "level": 379.6,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1416": {
     "rate": 0,
-    "level": 314.11,
-    "inflow": 1.01,
+    "level": 314.1,
+    "inflow": 0,
     "outflow": 1.01,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1417": {
-    "rate": 48.6,
-    "level": 224.62,
-    "inflow": 4.82,
-    "outflow": 4.82,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 48.5,
+    "level": 224.6,
+    "inflow": 2.26,
+    "outflow": 4.9,
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1418": {
     "rate": 0,
     "level": 597.09,
     "inflow": 0,
     "outflow": 0.28,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1419": {
     "rate": 58.7,
     "level": 439.94,
     "inflow": 0.33,
     "outflow": 0.33,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1420": {
     "rate": 0,
-    "level": 534.16,
-    "inflow": 2.9,
+    "level": 534.57,
+    "inflow": 3.1,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1421": {
-    "rate": 79.7,
-    "level": 72.54,
-    "inflow": 1.23,
+    "rate": 79.6,
+    "level": 72.53,
+    "inflow": 1.57,
     "outflow": 3.26,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1422": {
-    "rate": 39.9,
-    "level": 62.88,
+    "rate": 39.8,
+    "level": 62.87,
     "inflow": 0.15,
     "outflow": 0.61,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1423": {
     "rate": 21.5,
     "level": 117.28,
     "inflow": 0.05,
     "outflow": 0.22,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1424": {
     "rate": 78.8,
     "level": 31.4,
     "inflow": 0.01,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1425": {
     "rate": 4.9,
     "level": 58.18,
     "inflow": 0,
-    "outflow": 0.01,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1426": {
     "rate": 0,
-    "level": 401.03,
-    "inflow": 0,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 401.04,
+    "inflow": 9.66,
+    "outflow": 7.63,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1427": {
     "rate": 0,
-    "level": 186.62,
-    "inflow": 5.95,
+    "level": 186.74,
+    "inflow": 5.99,
     "outflow": 1.74,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1428": {
     "rate": 0,
-    "level": 275.45,
-    "inflow": 2.32,
-    "outflow": 5.62,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 275.39,
+    "inflow": 2.46,
+    "outflow": 5.63,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1429": {
     "rate": 0,
     "level": 124.14,
     "inflow": 2.16,
     "outflow": 2.17,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1430": {
     "rate": 0,
     "level": 295.48,
     "inflow": 0.32,
     "outflow": 0.32,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1431": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1432": {
     "rate": 28,
     "level": 185.06,
-    "inflow": 0.01,
+    "inflow": 0.31,
     "outflow": 0.38,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1433": {
     "rate": 67.8,
     "level": 180.21,
-    "inflow": 0.53,
+    "inflow": 0.08,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1434": {
     "rate": 0,
     "level": 156.83,
     "inflow": 0.02,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1435": {
     "rate": 0,
     "level": 143.76,
     "inflow": 0.13,
     "outflow": 0.11,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1436": {
     "rate": 0,
     "level": 363.39,
     "inflow": 0.44,
     "outflow": 0.42,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1437": {
     "rate": 0,
     "level": 333.86,
     "inflow": 0.09,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1438": {
     "rate": 0,
-    "level": 231.16,
+    "level": 231.32,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1439": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1440": {
     "rate": 0,
-    "level": 156.09,
+    "level": 154.6,
     "inflow": 2,
     "outflow": 8,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1441": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1442": {
     "rate": 0,
     "level": 384.89,
     "inflow": 2.98,
-    "outflow": 3.03,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 3.01,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1443": {
     "rate": 0,
     "level": 492.15,
     "inflow": 0.59,
-    "outflow": 0.96,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.97,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1444": {
     "rate": 0,
     "level": 116.62,
     "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1445": {
     "rate": 55.3,
     "level": 190.99,
     "inflow": 0.22,
     "outflow": 0.62,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1446": {
     "rate": 0,
     "level": 400.03,
-    "inflow": 15.04,
-    "outflow": 15.15,
-    "updatedAt": "2026/03/17 14:40"
+    "inflow": 15.05,
+    "outflow": 15.14,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1447": {
     "rate": 0,
-    "level": 322.81,
+    "level": 322.66,
     "inflow": 15,
     "outflow": 20,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1448": {
     "rate": 22.3,
-    "level": 77.99,
+    "level": 77.98,
     "inflow": 0,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1449": {
     "rate": 0,
     "level": 170.17,
-    "inflow": 0.48,
+    "inflow": 0.06,
     "outflow": 0.55,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1450": {
     "rate": 0,
     "level": 529.43,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1451": {
     "rate": 0,
     "level": 99.63,
     "inflow": 1.05,
     "outflow": 1.06,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1452": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1453": {
     "rate": 0,
-    "level": 193.39,
+    "level": 193.4,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1454": {
     "rate": 0,
-    "level": 804.73,
-    "inflow": 12.95,
+    "level": 806.95,
+    "inflow": 6.68,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1455": {
     "rate": 0,
-    "level": 126.46,
+    "level": 126.39,
     "inflow": 0,
-    "outflow": 1.52,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 1.51,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1456": {
     "rate": 0,
-    "level": 114.01,
-    "inflow": -23.81,
+    "level": 111.66,
+    "inflow": -11.01,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1457": {
     "rate": 0,
     "level": 75.33,
     "inflow": 1.39,
     "outflow": 1.39,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1458": {
     "rate": 0,
     "level": 261.32,
     "inflow": 0.04,
-    "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:40"
+    "outflow": 0.07,
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1459": {
     "rate": 0,
     "level": 170.65,
     "inflow": 0.09,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 15:50"
   },
   "d1460": {
     "rate": 0,
     "level": 245.14,
     "inflow": 0,
     "outflow": 0.15,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1461": {
     "rate": 0,
     "level": 316.09,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1462": {
     "rate": 0,
     "level": 456.32,
     "inflow": 0.03,
     "outflow": 0.1,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1463": {
     "rate": 0,
     "level": 677.84,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1464": {
     "rate": 0,
     "level": 73.7,
     "inflow": 0.06,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1465": {
     "rate": 0,
-    "level": 1116.19,
-    "inflow": 46.7,
+    "level": 1116.97,
+    "inflow": 46.56,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1466": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1467": {
     "rate": 0,
     "level": 415.95,
     "inflow": 3.33,
     "outflow": 3.33,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1468": {
     "rate": 0,
-    "level": 324.56,
-    "inflow": 0.22,
+    "level": 324.59,
+    "inflow": 2.2,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1469": {
     "rate": 0,
-    "level": 284.44,
-    "inflow": 0.12,
+    "level": 284.45,
+    "inflow": 2.91,
     "outflow": 0.12,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1470": {
     "rate": 0,
     "level": 312.07,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1471": {
     "rate": 0,
-    "level": 49.25,
-    "inflow": 8.12,
-    "outflow": 15.76,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 49.19,
+    "inflow": 8.82,
+    "outflow": 15.74,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1472": {
     "rate": 0,
-    "level": 77.85,
+    "level": 77.89,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1473": {
     "rate": 0,
-    "level": 370.79,
-    "inflow": 4.02,
-    "outflow": 5.75,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 370.74,
+    "inflow": 5.36,
+    "outflow": 5.73,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1474": {
     "rate": 0,
-    "level": 560.92,
-    "inflow": 7.13,
-    "outflow": 50.97,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 560.58,
+    "inflow": 4.88,
+    "outflow": 50.55,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1475": {
     "rate": 0,
-    "level": 656.41,
-    "inflow": 0,
-    "outflow": 7.04,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 656.39,
+    "inflow": 5.19,
+    "outflow": 6.94,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1476": {
     "rate": 0,
-    "level": 771.68,
-    "inflow": 7.31,
+    "level": 771.73,
+    "inflow": 7.33,
     "outflow": 0.06,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1477": {
     "rate": 0,
-    "level": 751.68,
-    "inflow": 0.65,
-    "outflow": 1.07,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 751.67,
+    "inflow": 0.76,
+    "outflow": 0.94,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1478": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1479": {
     "rate": 0,
-    "level": 909.12,
+    "level": 909.17,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1480": {
     "rate": 0,
     "level": 213.1,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1481": {
     "rate": 0,
     "level": 857.03,
     "inflow": 1.09,
-    "outflow": 0.82,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.52,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1482": {
     "rate": 0,
-    "level": 1063.07,
-    "inflow": 2.85,
+    "level": 1063.09,
+    "inflow": 4.67,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1483": {
     "rate": 0,
-    "level": 948.28,
-    "inflow": 0.03,
-    "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 948.22,
+    "inflow": 0,
+    "outflow": 7.25,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1484": {
     "rate": 0,
-    "level": 856.56,
-    "inflow": 6.44,
-    "outflow": 29.16,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 856.4,
+    "inflow": 7.65,
+    "outflow": 29.22,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1485": {
     "rate": 0,
-    "level": 859.13,
-    "inflow": -2.93,
+    "level": 859.1,
+    "inflow": -3.77,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1486": {
     "rate": 0,
-    "level": 791.93,
-    "inflow": 29.16,
-    "outflow": 24.83,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 792.04,
+    "inflow": 29.22,
+    "outflow": 25.1,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1487": {
     "rate": 0,
     "level": 733.25,
     "inflow": 0.02,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1488": {
     "rate": 0,
     "level": 565.51,
     "inflow": 0.01,
     "outflow": 0.02,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1489": {
     "rate": 58.9,
     "level": 117.76,
     "inflow": 0.71,
     "outflow": 0.71,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1490": {
     "rate": 0,
     "level": 72.19,
     "inflow": 20.41,
-    "outflow": 20.03,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 20.41,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1491": {
     "rate": 0,
     "level": 571.54,
     "inflow": 0.4,
-    "outflow": 0.24,
-    "updatedAt": "2026/03/17 14:50"
+    "outflow": 0.29,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1492": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1493": {
     "rate": 0,
-    "level": 502.53,
-    "inflow": 35.59,
-    "outflow": 36.5,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 502.48,
+    "inflow": 35.64,
+    "outflow": 36.44,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1494": {
     "rate": 0,
     "level": 266.82,
-    "inflow": 37.96,
+    "inflow": 39.04,
     "outflow": 36.73,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1495": {
     "rate": 0,
-    "level": 306.86,
-    "inflow": 1.66,
-    "outflow": 38.26,
-    "updatedAt": "2026/03/17 14:50"
+    "level": 306.53,
+    "inflow": 3.17,
+    "outflow": 38.64,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1496": {
-    "rate": 27.8,
-    "level": 633.36,
-    "inflow": 20.91,
+    "rate": 27.7,
+    "level": 633.35,
+    "inflow": 22.39,
     "outflow": 22.56,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1497": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1498": {
-    "rate": 62.3,
-    "level": 97.88,
-    "inflow": 0.72,
-    "outflow": 1.39,
-    "updatedAt": "2026/03/17 14:40"
+    "rate": 62.2,
+    "level": 97.87,
+    "inflow": 0.7,
+    "outflow": 1.37,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1499": {
     "rate": 96.5,
     "level": 80.85,
     "inflow": 1.05,
     "outflow": 1.05,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1500": {
-    "rate": 96.4,
-    "level": 40.61,
-    "inflow": 1.85,
-    "outflow": 1.03,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 96.6,
+    "level": 40.62,
+    "inflow": 1.74,
+    "outflow": 1.04,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1501": {
-    "rate": 11.6,
-    "level": 159.99,
-    "inflow": 4.09,
+    "rate": 11.5,
+    "level": 159.98,
+    "inflow": 2.71,
     "outflow": 4.09,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1502": {
     "rate": 55.8,
     "level": 443.88,
-    "inflow": 0.63,
+    "inflow": 1.47,
     "outflow": 1.79,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1503": {
-    "rate": 37.3,
-    "level": 459.63,
-    "inflow": 1.29,
-    "outflow": 6.51,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 37.2,
+    "level": 459.6,
+    "inflow": 1.39,
+    "outflow": 6.59,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1504": {
     "rate": 25.5,
     "level": 247.87,
     "inflow": 1.45,
     "outflow": 1.43,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1505": {
-    "rate": 46.4,
-    "level": 147.08,
-    "inflow": 35.63,
-    "outflow": 67.13,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 46,
+    "level": 147.04,
+    "inflow": 38.2,
+    "outflow": 66.92,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1506": {
     "rate": 0,
-    "level": 334.46,
-    "inflow": 2.91,
+    "level": 334.54,
+    "inflow": 2.3,
     "outflow": 0,
-    "updatedAt": "2026/03/17 14:50"
+    "updatedAt": "2026/03/17 16:10"
   },
   "d1507": {
     "rate": 82.6,
-    "level": 85.46,
-    "inflow": 3.41,
-    "outflow": 2.97,
-    "updatedAt": "2026/03/17 14:40"
+    "level": 85.47,
+    "inflow": 2.26,
+    "outflow": 3.4,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1508": {
-    "rate": 17.3,
-    "level": 154.3,
-    "inflow": 3.76,
-    "outflow": 7.37,
-    "updatedAt": "2026/03/17 14:50"
+    "rate": 17.2,
+    "level": 154.26,
+    "inflow": 3.82,
+    "outflow": 7.35,
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1509": {
     "rate": 24.3,
     "level": 64.67,
     "inflow": 0.27,
     "outflow": 0.27,
-    "updatedAt": "2026/03/17 14:40"
+    "updatedAt": "2026/03/17 16:00"
   },
   "d1510": {
     "rate": 60.9,
     "level": 119.73,
-    "inflow": 5.26,
-    "outflow": 2.62,
-    "updatedAt": "2026/03/17 05:40"
+    "inflow": 3.66,
+    "outflow": 2.63,
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1511": {
-    "rate": 56.9,
-    "level": 191.62,
-    "inflow": 2.27,
+    "rate": 57,
+    "level": 191.63,
+    "inflow": 1.79,
     "outflow": 1.06,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1512": {
     "rate": 100,
     "level": 25.95,
     "inflow": 0.03,
     "outflow": 0.03,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1513": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1514": {
     "rate": 0,
     "level": 0,
     "inflow": 0,
     "outflow": 0,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1515": {
     "rate": 100,
     "level": 312.05,
     "inflow": 0.09,
     "outflow": 0.09,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1516": {
     "rate": 85.7,
     "level": 96.16,
     "inflow": 0.35,
     "outflow": 0.35,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1517": {
-    "rate": 60,
-    "level": 262.81,
-    "inflow": 3.65,
+    "rate": 60.1,
+    "level": 262.82,
+    "inflow": 3.45,
     "outflow": 1.76,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1518": {
     "rate": 66.8,
     "level": 94.19,
-    "inflow": 0,
+    "inflow": 0.03,
     "outflow": 0.08,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1519": {
     "rate": 54.3,
     "level": 51.51,
     "inflow": 0.11,
-    "outflow": 0.11,
-    "updatedAt": "2026/03/17 05:40"
+    "outflow": 0.12,
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1520": {
     "rate": 95,
     "level": 242.27,
     "inflow": 0.29,
     "outflow": 0.29,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1521": {
     "rate": 73.5,
     "level": 31.93,
     "inflow": 0.01,
     "outflow": 0.01,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1522": {
     "rate": 80,
-    "level": 119.03,
-    "inflow": 0.04,
+    "level": 119.02,
+    "inflow": 0,
     "outflow": 0.04,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 06:50"
   },
   "d1523": {
     "rate": 2.7,
     "level": 315.52,
     "inflow": 0.43,
     "outflow": 0.45,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1524": {
     "rate": 94.9,
     "level": 257.65,
     "inflow": 0.05,
     "outflow": 0.05,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1525": {
     "rate": 100,
     "level": 358.1,
     "inflow": 0.81,
     "outflow": 0.81,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1526": {
     "rate": 0.2,
     "level": 169.27,
     "inflow": 3.58,
     "outflow": 3.58,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1527": {
-    "rate": 8.6,
-    "level": 182.86,
-    "inflow": 6.54,
+    "rate": 8.5,
+    "level": 182.84,
+    "inflow": 6.02,
     "outflow": 7.05,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1528": {
-    "rate": 86.7,
-    "level": 382.3,
+    "rate": 86.6,
+    "level": 382.29,
     "inflow": 0.59,
-    "outflow": 1.38,
-    "updatedAt": "2026/03/17 05:40"
+    "outflow": 1.37,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1529": {
     "rate": 12.6,
     "level": 468.53,
     "inflow": 3.2,
     "outflow": 3.2,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1530": {
     "rate": 100,
     "level": 300.12,
     "inflow": 0.32,
     "outflow": 0.32,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1531": {
     "rate": 34.3,
     "level": 241.18,
     "inflow": 15.04,
     "outflow": 15.04,
-    "updatedAt": "2026/03/17 05:40"
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1532": {
     "rate": 99.1,
     "level": 142.47,
     "inflow": 2.69,
-    "outflow": 2.7,
-    "updatedAt": "2026/03/17 05:40"
+    "outflow": 2.68,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1533": {
     "rate": 100,
     "level": 131.24,
     "inflow": 1.63,
-    "outflow": 1.63,
-    "updatedAt": "2026/03/17 05:40"
+    "outflow": 1.62,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1534": {
-    "rate": 15.9,
-    "level": 174.18,
-    "inflow": 27.12,
-    "outflow": 42.26,
-    "updatedAt": "2026/03/17 05:50"
+    "rate": 15.7,
+    "level": 174.16,
+    "inflow": 25.28,
+    "outflow": 42.19,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1535": {
     "rate": 52.2,
     "level": 144.83,
-    "inflow": 6.34,
-    "outflow": 3.51,
-    "updatedAt": "2026/03/17 05:50"
+    "inflow": 3.48,
+    "outflow": 3.37,
+    "updatedAt": "2026/03/17 07:00"
   },
   "d1536": {
     "rate": 86.8,
     "level": 972.12,
-    "inflow": 3.78,
+    "inflow": 0.44,
     "outflow": 0.44,
-    "updatedAt": "2026/03/17 05:50"
+    "updatedAt": "2026/03/17 07:00"
   }
 }
