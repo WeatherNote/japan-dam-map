@@ -74,6 +74,8 @@ const I18n = (() => {
       source_public: '公的データ',
       nav_hydro: '水力発電',
       approx: ' (概算)',
+      refresh_data: 'データ更新',
+      refreshing: '更新中...',
     },
     en: {
       app_title: 'Japan Dam Reservoir Map',
@@ -146,6 +148,8 @@ const I18n = (() => {
       source_public: 'Public Data',
       nav_hydro: 'Hydro Stats',
       approx: ' (Approx)',
+      refresh_data: 'Refresh',
+      refreshing: 'Refreshing...',
     }
   };
 

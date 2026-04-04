@@ -265,6 +265,10 @@
                 <a href="index.html" class="btn-icon" id="btn-back">
                     <span>← </span><span id="btn-back-label">メインマップに戻る</span>
                 </a>
+                <button id="btn-refresh" class="btn-icon" title="Refresh Data" aria-label="Refresh Data">
+                    <span class="btn-refresh-icon">🔄</span>
+                    <span id="btn-refresh-label">データ更新</span>
+                </button>
                 <button id="btn-theme" class="btn-icon" title="Toggle Theme" aria-label="Toggle Theme">
                     <span id="theme-icon">🌙</span>
                 </button>
@@ -341,7 +345,7 @@
             try {
                 const [damsRes, realtimeRes] = await Promise.all([
                     fetch('data/dams.json'),
-                    fetch('data/realtime.json')
+                    fetch('data/realtime.json?t=' + Date.now())
                 ]);
                 const damsData = await damsRes.json();
                 const realtimeData = await realtimeRes.json();
@@ -585,6 +589,25 @@
             allHydroDams = await loadData();
             updatePageText();
             renderAll();
+
+            // Refresh data
+            document.getElementById('btn-refresh').addEventListener('click', async () => {
+                const btn = document.getElementById('btn-refresh');
+                if (btn.classList.contains('refreshing')) return;
+                btn.classList.add('refreshing');
+                const label = document.getElementById('btn-refresh-label');
+                const origText = label.textContent;
+                label.textContent = I18n.getLang() === 'ja' ? '更新中...' : 'Refreshing...';
+                try {
+                    allHydroDams = await loadData();
+                    renderAll();
+                } catch (e) {
+                    console.error('Refresh failed:', e);
+                } finally {
+                    btn.classList.remove('refreshing');
+                    label.textContent = origText;
+                }
+            });
         }
 
         function calculateRegionRates(hydroDams) {

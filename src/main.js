@@ -87,6 +87,27 @@ const App = (() => {
         // Detail close
         document.getElementById('detail-close').addEventListener('click', () => Detail.hide());
 
+        // Refresh data
+        document.getElementById('btn-refresh').addEventListener('click', async () => {
+            const btn = document.getElementById('btn-refresh');
+            if (btn.classList.contains('refreshing')) return;
+            btn.classList.add('refreshing');
+            const label = btn.querySelector('[data-i18n="refresh_data"]');
+            const origText = label.textContent;
+            label.textContent = I18n.t('refreshing');
+            try {
+                allDams = await DamData.reload();
+                filteredDams = [...allDams];
+                applyFilterAndRender();
+                updateTimestamp();
+            } catch (e) {
+                console.error('Refresh failed:', e);
+            } finally {
+                btn.classList.remove('refreshing');
+                label.textContent = origText;
+            }
+        });
+
 
     }
 

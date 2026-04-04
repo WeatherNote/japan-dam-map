@@ -1004,3 +1004,18 @@ body {
     transform: rotate(360deg);
   }
 }
+
+/* --- Refresh Button --- */
+.btn-refresh-icon {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.btn-icon.refreshing {
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.btn-icon.refreshing .btn-refresh-icon {
+  animation: spin 0.8s linear infinite;
+}

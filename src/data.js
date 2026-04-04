@@ -121,10 +121,22 @@ const DamData = (() => {
 
 
 
+    async function reload() {
+        try {
+            const res = await fetch('data/realtime.json?t=' + Date.now());
+            realtimeData = await res.json();
+            mergedData = merge(masterData, realtimeData).filter(d => d.rate !== null && d.rate !== undefined);
+            return mergedData;
+        } catch (err) {
+            console.error('Failed to reload realtime data:', err);
+            return mergedData;
+        }
+    }
+
     function getTimestamp() {
         if (realtimeData && realtimeData._timestamp) return realtimeData._timestamp;
         return null;
     }
 
-    return { load, getAll, getById, filterData, sortData, getRegionPrefectures, getRegionForPrefecture, getTimestamp };
+    return { load, reload, getAll, getById, filterData, sortData, getRegionPrefectures, getRegionForPrefecture, getTimestamp };
 })();
