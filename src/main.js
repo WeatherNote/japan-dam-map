@@ -99,7 +99,7 @@ const App = (() => {
                 allDams = await DamData.reload();
                 filteredDams = [...allDams];
                 applyFilterAndRender();
-                updateTimestamp();
+                updateTimestamp(new Date().toISOString());
             } catch (e) {
                 console.error('Refresh failed:', e);
             } finally {
@@ -151,8 +151,8 @@ const App = (() => {
         Filter.updateStats(filteredDams);
     }
 
-    function updateTimestamp() {
-        const ts = DamData.getTimestamp();
+    function updateTimestamp(overrideTime) {
+        const ts = overrideTime || DamData.getTimestamp();
         const el = document.getElementById('data-timestamp');
         if (ts) {
             el.textContent = I18n.t('updated_at', { time: new Date(ts).toLocaleString(I18n.getLang() === 'ja' ? 'ja-JP' : 'en-US') });
